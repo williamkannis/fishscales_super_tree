@@ -106,6 +106,17 @@ If you use this phylogenetic super tree, please cite:
 
 [MANUSCRIPT CITATION]
 
+## Contact
+For questions about these data, please contact:
+
+```bash
+Name: William K. Annis
+
+Email: wannis@fsu.edu, williamkannis@gmail.com
+
+OrcID: 0009-0003-3541-8503
+```
+
 ## Related publications
 
 > Syndromes of multidimensional beta diversity change in invaded metacommunities
