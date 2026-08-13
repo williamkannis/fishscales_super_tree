@@ -1,778 +1,513 @@
 ﻿species,source,type
-Acantharchus pomotis,Fish Tree of Life,backbone tree
-Achirus lineatus,Fish Tree of Life,backbone tree
-Acipenser brevirostrum,Fish Tree of Life,backbone tree
-Acipenser fulvescens,Fish Tree of Life,backbone tree
-Acipenser oxyrinchus,Fish Tree of Life,backbone tree
-Acrocheilus alutaceus,Fish Tree of Life,backbone tree
-Agonostomus monticola,Fish Tree of Life,backbone tree
-Agosia chrysogaster,Fish Tree of Life,backbone tree
-Alosa aestivalis,Fish Tree of Life,backbone tree
-Alosa alabamae,Fish Tree of Life,backbone tree
-Alosa chrysochloris,Fish Tree of Life,backbone tree
-Alosa mediocris,Fish Tree of Life,backbone tree
-Alosa pseudoharengus,Fish Tree of Life,backbone tree
-Alosa sapidissima,Fish Tree of Life,backbone tree
-Ambloplites ariommus,Fish Tree of Life,backbone tree
-Ambloplites cavifrons,Fish Tree of Life,backbone tree
-Ambloplites constellatus,Fish Tree of Life,backbone tree
-Ambloplites rupestris,Fish Tree of Life,backbone tree
-Ameiurus brunneus,Fish Tree of Life,backbone tree
-Ameiurus catus,Fish Tree of Life,backbone tree
-Ameiurus melas,Fish Tree of Life,backbone tree
-Ameiurus natalis,Fish Tree of Life,backbone tree
-Ameiurus nebulosus,Fish Tree of Life,backbone tree
-Ameiurus platycephalus,Fish Tree of Life,backbone tree
-Ameiurus serracanthus,Fish Tree of Life,backbone tree
-Amia calva,Fish Tree of Life,backbone tree
-Ammocrypta beanii,Fish Tree of Life,backbone tree
-Ammocrypta bifascia,Fish Tree of Life,backbone tree
-Ammocrypta clara,Fish Tree of Life,backbone tree
-Ammocrypta meridiana,Fish Tree of Life,backbone tree
-Ammocrypta pellucida,Fish Tree of Life,backbone tree
-Ammocrypta vivax,Fish Tree of Life,backbone tree
-Anchoa hepsetus,Fish Tree of Life,backbone tree
-Anchoa mitchilli,Fish Tree of Life,backbone tree
-Anguilla rostrata,Fish Tree of Life,backbone tree
-Apeltes quadracus,Fish Tree of Life,backbone tree
-Aphredoderus sayanus,Fish Tree of Life,backbone tree
-Aplodinotus grunniens,Fish Tree of Life,backbone tree
-Archoplites interruptus,Fish Tree of Life,backbone tree
-Archosargus probatocephalus,Fish Tree of Life,backbone tree
-Ariopsis felis,Fish Tree of Life,backbone tree
-Astyanax mexicanus,Fish Tree of Life,backbone tree
-Atractosteus spatula,Fish Tree of Life,backbone tree
-Awaous banana,Fish Tree of Life,backbone tree
-Bagre marinus,Fish Tree of Life,backbone tree
-Bairdiella chrysoura,Fish Tree of Life,backbone tree
-Bothus robinsi,Fish Tree of Life,backbone tree
-Brevoortia patronus,Fish Tree of Life,backbone tree
-Brevoortia tyrannus,Fish Tree of Life,backbone tree
-Caranx hippos,Fish Tree of Life,backbone tree
-Carassius auratus,Fish Tree of Life,backbone tree
-Carpiodes carpio,Fish Tree of Life,backbone tree
-Carpiodes cyprinus,Fish Tree of Life,backbone tree
-Carpiodes velifer,Fish Tree of Life,backbone tree
-Catostomus ardens,Fish Tree of Life,backbone tree
-Catostomus catostomus,Fish Tree of Life,backbone tree
-Catostomus clarkii,Fish Tree of Life,backbone tree
-Catostomus columbianus,Fish Tree of Life,backbone tree
-Catostomus commersonii,Fish Tree of Life,backbone tree
-Catostomus discobolus,Fish Tree of Life,backbone tree
-Catostomus insignis,Fish Tree of Life,backbone tree
-Catostomus macrocheilus,Fish Tree of Life,backbone tree
-Catostomus occidentalis,Fish Tree of Life,backbone tree
-Catostomus platyrhynchus,Fish Tree of Life,backbone tree
-Catostomus plebeius,Fish Tree of Life,backbone tree
-Catostomus rimiculus,Fish Tree of Life,backbone tree
-Catostomus santaanae,Fish Tree of Life,backbone tree
-Catostomus snyderi,Fish Tree of Life,backbone tree
-Catostomus tahoensis,Fish Tree of Life,backbone tree
-Centrarchus macropterus,Fish Tree of Life,backbone tree
-Centropomus undecimalis,Fish Tree of Life,backbone tree
-Channa argus,Fish Tree of Life,backbone tree
-Channa micropeltes,Fish Tree of Life,backbone tree
-Chologaster cornuta,Fish Tree of Life,backbone tree
-Chrosomus cumberlandensis,Fish Tree of Life,backbone tree
-Chrosomus eos,Fish Tree of Life,backbone tree
-Chrosomus erythrogaster,Fish Tree of Life,backbone tree
-Chrosomus oreas,Fish Tree of Life,backbone tree
-Chrosomus tennesseensis,Fish Tree of Life,backbone tree
-Cichlasoma bimaculatum,Fish Tree of Life,backbone tree
-Cichlasoma urophthalmus,Fish Tree of Life,backbone tree
-Citharichthys spilopterus,Fish Tree of Life,backbone tree
-Clarias batrachus,Fish Tree of Life,backbone tree
-Clinostomus elongatus,Fish Tree of Life,backbone tree
-Clinostomus funduloides,Fish Tree of Life,backbone tree
-Coregonus clupeaformis,Fish Tree of Life,backbone tree
-Cottus aleuticus,Fish Tree of Life,backbone tree
-Cottus asper,Fish Tree of Life,backbone tree
-Cottus baileyi,Fish Tree of Life,backbone tree
-Cottus bairdii,Fish Tree of Life,backbone tree
-Cottus beldingii,Fish Tree of Life,backbone tree
-Cottus caeruleomentum,Fish Tree of Life,backbone tree
-Cottus carolinae,Fish Tree of Life,backbone tree
-Cottus chattahoochee,Fish Tree of Life,backbone tree
-Cottus cognatus,Fish Tree of Life,backbone tree
-Cottus confusus,Fish Tree of Life,backbone tree
-Cottus girardi,Fish Tree of Life,backbone tree
-Cottus gulosus,Fish Tree of Life,backbone tree
-Cottus hypselurus,Fish Tree of Life,backbone tree
-Cottus klamathensis,Fish Tree of Life,backbone tree
-Cottus leiopomus,Fish Tree of Life,backbone tree
-Cottus marginatus,Fish Tree of Life,backbone tree
-Cottus perplexus,Fish Tree of Life,backbone tree
-Cottus pitensis,Fish Tree of Life,backbone tree
-Cottus rhotheus,Fish Tree of Life,backbone tree
-Cottus ricei,Fish Tree of Life,backbone tree
-Cottus tallapoosae,Fish Tree of Life,backbone tree
-Cottus tenuis,Fish Tree of Life,backbone tree
-Couesius plumbeus,Fish Tree of Life,backbone tree
-Crystallaria asprella,Fish Tree of Life,backbone tree
-Ctenogobius boleosoma,Fish Tree of Life,backbone tree
-Ctenopharyngodon idella,Fish Tree of Life,backbone tree
-Culaea inconstans,Fish Tree of Life,backbone tree
-Cycleptus elongatus,Fish Tree of Life,backbone tree
-Cycleptus meridionalis,Fish Tree of Life,backbone tree
-Cymatogaster aggregata,Fish Tree of Life,backbone tree
-Cynoscion arenarius,Fish Tree of Life,backbone tree
-Cynoscion nebulosus,Fish Tree of Life,backbone tree
-Cynoscion nothus,Fish Tree of Life,backbone tree
-Cyprinella analostana,Fish Tree of Life,backbone tree
-Cyprinella caerulea,Fish Tree of Life,backbone tree
-Cyprinella callisema,Fish Tree of Life,backbone tree
-Cyprinella callistia,Fish Tree of Life,backbone tree
-Cyprinella callitaenia,Fish Tree of Life,backbone tree
-Cyprinella camura,Fish Tree of Life,backbone tree
-Cyprinella chloristia,Fish Tree of Life,backbone tree
-Cyprinella galactura,Fish Tree of Life,backbone tree
-Cyprinella gibbsi,Fish Tree of Life,backbone tree
-Cyprinella labrosa,Fish Tree of Life,backbone tree
-Cyprinella leedsi,Fish Tree of Life,backbone tree
-Cyprinella lepida,Fish Tree of Life,backbone tree
-Cyprinella lutrensis,Fish Tree of Life,backbone tree
-Cyprinella nivea,Fish Tree of Life,backbone tree
-Cyprinella proserpina,Fish Tree of Life,backbone tree
-Cyprinella pyrrhomelas,Fish Tree of Life,backbone tree
-Cyprinella spiloptera,Fish Tree of Life,backbone tree
-Cyprinella trichroistia,Fish Tree of Life,backbone tree
-Cyprinella venusta,Fish Tree of Life,backbone tree
-Cyprinella whipplei,Fish Tree of Life,backbone tree
-Cyprinella xaenura,Fish Tree of Life,backbone tree
-Cyprinella zanema,Fish Tree of Life,backbone tree
-Cyprinodon eximius,Fish Tree of Life,backbone tree
-Cyprinodon pecosensis,Fish Tree of Life,backbone tree
-Cyprinodon rubrofluviatilis,Fish Tree of Life,backbone tree
-Cyprinodon variegatus,Fish Tree of Life,backbone tree
-Cyprinus carpio,Fish Tree of Life,backbone tree
-Dionda argentosa,Fish Tree of Life,backbone tree
-Dionda diaboli,Fish Tree of Life,backbone tree
-Dionda episcopa,Fish Tree of Life,backbone tree
-Dionda nigrotaeniata,Fish Tree of Life,backbone tree
-Dionda serena,Fish Tree of Life,backbone tree
-Dormitator maculatus,Fish Tree of Life,backbone tree
-Dorosoma cepedianum,Fish Tree of Life,backbone tree
-Dorosoma petenense,Fish Tree of Life,backbone tree
-Elassoma alabamae,Fish Tree of Life,backbone tree
-Elassoma evergladei,Fish Tree of Life,backbone tree
-Elassoma gilberti,Fish Tree of Life,backbone tree
-Elassoma okefenokee,Fish Tree of Life,backbone tree
-Elassoma zonatum,Fish Tree of Life,backbone tree
-Eleotris amblyopsis,Fish Tree of Life,backbone tree
-Eleotris pisonis,Fish Tree of Life,backbone tree
-Elops affinis,Fish Tree of Life,backbone tree
-Elops saurus,Fish Tree of Life,backbone tree
-Enneacanthus chaetodon,Fish Tree of Life,backbone tree
-Enneacanthus gloriosus,Fish Tree of Life,backbone tree
-Enneacanthus obesus,Fish Tree of Life,backbone tree
-Erimystax cahni,Fish Tree of Life,backbone tree
-Erimystax dissimilis,Fish Tree of Life,backbone tree
-Erimystax harryi,Fish Tree of Life,backbone tree
-Erimystax insignis,Fish Tree of Life,backbone tree
-Erimystax x-punctatus,Fish Tree of Life,backbone tree
-Erimyzon oblongus,Fish Tree of Life,backbone tree
-Erimyzon sucetta,Fish Tree of Life,backbone tree
-Erimyzon tenuis,Fish Tree of Life,backbone tree
-Esox americanus,Fish Tree of Life,backbone tree
-Esox lucius,Fish Tree of Life,backbone tree
-Esox masquinongy,Fish Tree of Life,backbone tree
-Esox niger,Fish Tree of Life,backbone tree
-Etheostoma acuticeps,Fish Tree of Life,backbone tree
-Etheostoma aquali,Fish Tree of Life,backbone tree
-Etheostoma artesiae,Fish Tree of Life,backbone tree
-Etheostoma asprigene,Fish Tree of Life,backbone tree
-Etheostoma autumnale,Fish Tree of Life,backbone tree
-Etheostoma baileyi,Fish Tree of Life,backbone tree
-Etheostoma barbouri,Fish Tree of Life,backbone tree
-Etheostoma barrenense,Fish Tree of Life,backbone tree
-Etheostoma bellator,Fish Tree of Life,backbone tree
-Etheostoma bellum,Fish Tree of Life,backbone tree
-Etheostoma blennioides,Fish Tree of Life,backbone tree
-Etheostoma blennius,Fish Tree of Life,backbone tree
-Etheostoma boschungi,Fish Tree of Life,backbone tree
-Etheostoma brevirostrum,Fish Tree of Life,backbone tree
-Etheostoma brevispinum,Fish Tree of Life,backbone tree
-Etheostoma caeruleum,Fish Tree of Life,backbone tree
-Etheostoma camurum,Fish Tree of Life,backbone tree
-Etheostoma cervus,Fish Tree of Life,backbone tree
-Etheostoma chienense,Fish Tree of Life,backbone tree
-Etheostoma chlorobranchium,Fish Tree of Life,backbone tree
-Etheostoma chlorosoma,Fish Tree of Life,backbone tree
-Etheostoma chuckwachatte,Fish Tree of Life,backbone tree
-Etheostoma cinereum,Fish Tree of Life,backbone tree
-Etheostoma collettei,Fish Tree of Life,backbone tree
-Etheostoma collis,Fish Tree of Life,backbone tree
-Etheostoma colorosum,Fish Tree of Life,backbone tree
-Etheostoma coosae,Fish Tree of Life,backbone tree
-Etheostoma corona,Fish Tree of Life,backbone tree
-Etheostoma cragini,Fish Tree of Life,backbone tree
-Etheostoma crossopterum,Fish Tree of Life,backbone tree
-Etheostoma davisoni,Fish Tree of Life,backbone tree
-Etheostoma denoncourti,Fish Tree of Life,backbone tree
-Etheostoma derivativum,Fish Tree of Life,backbone tree
-Etheostoma ditrema,Fish Tree of Life,backbone tree
-Etheostoma douglasi,Fish Tree of Life,backbone tree
-Etheostoma duryi,Fish Tree of Life,backbone tree
-Etheostoma edwini,Fish Tree of Life,backbone tree
-Etheostoma etowahae,Fish Tree of Life,backbone tree
-Etheostoma euzonum,Fish Tree of Life,backbone tree
-Etheostoma exile,Fish Tree of Life,backbone tree
-Etheostoma flabellare,Fish Tree of Life,backbone tree
-Etheostoma flavum,Fish Tree of Life,backbone tree
-Etheostoma fragi,Fish Tree of Life,backbone tree
-Etheostoma fricksium,Fish Tree of Life,backbone tree
-Etheostoma fusiforme,Fish Tree of Life,backbone tree
-Etheostoma gracile,Fish Tree of Life,backbone tree
-Etheostoma grahami,Fish Tree of Life,backbone tree
-Etheostoma histrio,Fish Tree of Life,backbone tree
-Etheostoma hopkinsi,Fish Tree of Life,backbone tree
-Etheostoma inscriptum,Fish Tree of Life,backbone tree
-Etheostoma jessiae,Fish Tree of Life,backbone tree
-Etheostoma jordani,Fish Tree of Life,backbone tree
-Etheostoma juliae,Fish Tree of Life,backbone tree
-Etheostoma kanawhae,Fish Tree of Life,backbone tree
-Etheostoma kantuckeense,Fish Tree of Life,backbone tree
-Etheostoma kennicotti,Fish Tree of Life,backbone tree
-Etheostoma lachneri,Fish Tree of Life,backbone tree
-Etheostoma lawrencei,Fish Tree of Life,backbone tree
-Etheostoma lepidum,Fish Tree of Life,backbone tree
-Etheostoma longimanum,Fish Tree of Life,backbone tree
-Etheostoma luteovinctum,Fish Tree of Life,backbone tree
-Etheostoma lynceum,Fish Tree of Life,backbone tree
-Etheostoma maculatum,Fish Tree of Life,backbone tree
-Etheostoma mariae,Fish Tree of Life,backbone tree
-Etheostoma meadiae,Fish Tree of Life,backbone tree
-Etheostoma microlepidum,Fish Tree of Life,backbone tree
-Etheostoma microperca,Fish Tree of Life,backbone tree
-Etheostoma mihileze,Fish Tree of Life,backbone tree
-Etheostoma moorei,Fish Tree of Life,backbone tree
-Etheostoma neopterum,Fish Tree of Life,backbone tree
-Etheostoma nigripinne,Fish Tree of Life,backbone tree
-Etheostoma nigrum,Fish Tree of Life,backbone tree
-Etheostoma obeyense,Fish Tree of Life,backbone tree
-Etheostoma occidentale,Fish Tree of Life,backbone tree
-Etheostoma olmstedi,Fish Tree of Life,backbone tree
-Etheostoma oophylax,Fish Tree of Life,backbone tree
-Etheostoma orientale,Fish Tree of Life,backbone tree
-Etheostoma osburni,Fish Tree of Life,backbone tree
-Etheostoma pallididorsum,Fish Tree of Life,backbone tree
-Etheostoma parvipinne,Fish Tree of Life,backbone tree
-Etheostoma percnurum,Fish Tree of Life,backbone tree
-Etheostoma planasaxatile,Fish Tree of Life,backbone tree
-Etheostoma podostemone,Fish Tree of Life,backbone tree
-Etheostoma proeliare,Fish Tree of Life,backbone tree
-Etheostoma pseudovulatum,Fish Tree of Life,backbone tree
-Etheostoma punctulatum,Fish Tree of Life,backbone tree
-Etheostoma pyrrhogaster,Fish Tree of Life,backbone tree
-Etheostoma radiosum,Fish Tree of Life,backbone tree
-Etheostoma rafinesquei,Fish Tree of Life,backbone tree
-Etheostoma ramseyi,Fish Tree of Life,backbone tree
-Etheostoma rufilineatum,Fish Tree of Life,backbone tree
-Etheostoma rupestre,Fish Tree of Life,backbone tree
-Etheostoma sagitta,Fish Tree of Life,backbone tree
-Etheostoma sanguifluum,Fish Tree of Life,backbone tree
-Etheostoma scotti,Fish Tree of Life,backbone tree
-Etheostoma serrifer,Fish Tree of Life,backbone tree
-Etheostoma simoterum,Fish Tree of Life,backbone tree
-Etheostoma smithi,Fish Tree of Life,backbone tree
-Etheostoma spectabile,Fish Tree of Life,backbone tree
-Etheostoma spilotum,Fish Tree of Life,backbone tree
-Etheostoma squamiceps,Fish Tree of Life,backbone tree
-Etheostoma stigmaeum,Fish Tree of Life,backbone tree
-Etheostoma susanae,Fish Tree of Life,backbone tree
-Etheostoma swaini,Fish Tree of Life,backbone tree
-Etheostoma swannanoa,Fish Tree of Life,backbone tree
-Etheostoma tallapoosae,Fish Tree of Life,backbone tree
-Etheostoma tecumsehi,Fish Tree of Life,backbone tree
-Etheostoma tennesseense,Fish Tree of Life,backbone tree
-Etheostoma tetrazonum,Fish Tree of Life,backbone tree
-Etheostoma thalassinum,Fish Tree of Life,backbone tree
-Etheostoma tippecanoe,Fish Tree of Life,backbone tree
-Etheostoma uniporum,Fish Tree of Life,backbone tree
-Etheostoma variatum,Fish Tree of Life,backbone tree
-Etheostoma virgatum,Fish Tree of Life,backbone tree
-Etheostoma vitreum,Fish Tree of Life,backbone tree
-Etheostoma vulneratum,Fish Tree of Life,backbone tree
-Etheostoma wapiti,Fish Tree of Life,backbone tree
-Etheostoma whipplei,Fish Tree of Life,backbone tree
-Etheostoma zonale,Fish Tree of Life,backbone tree
-Etheostoma zonifer,Fish Tree of Life,backbone tree
-Etheostoma zonistium,Fish Tree of Life,backbone tree
-Eucinostomus argenteus,Fish Tree of Life,backbone tree
-Eucinostomus gula,Fish Tree of Life,backbone tree
-Eucinostomus harengulus,Fish Tree of Life,backbone tree
-Eugerres plumieri,Fish Tree of Life,backbone tree
-Evorthodus lyricus,Fish Tree of Life,backbone tree
-Exoglossum laurae,Fish Tree of Life,backbone tree
-Exoglossum maxillingua,Fish Tree of Life,backbone tree
-Forbesichthys agassizii,Fish Tree of Life,backbone tree
-Fundulus bifax,Fish Tree of Life,backbone tree
-Fundulus blairae,Fish Tree of Life,backbone tree
-Fundulus catenatus,Fish Tree of Life,backbone tree
-Fundulus chrysotus,Fish Tree of Life,backbone tree
-Fundulus cingulatus,Fish Tree of Life,backbone tree
-Fundulus confluentus,Fish Tree of Life,backbone tree
-Fundulus diaphanus,Fish Tree of Life,backbone tree
-Fundulus dispar,Fish Tree of Life,backbone tree
-Fundulus escambiae,Fish Tree of Life,backbone tree
-Fundulus euryzonus,Fish Tree of Life,backbone tree
-Fundulus grandis,Fish Tree of Life,backbone tree
-Fundulus heteroclitus,Fish Tree of Life,backbone tree
-Fundulus jenkinsi,Fish Tree of Life,backbone tree
-Fundulus kansae,Fish Tree of Life,backbone tree
-Fundulus lineolatus,Fish Tree of Life,backbone tree
-Fundulus majalis,Fish Tree of Life,backbone tree
-Fundulus notatus,Fish Tree of Life,backbone tree
-Fundulus nottii,Fish Tree of Life,backbone tree
-Fundulus olivaceus,Fish Tree of Life,backbone tree
-Fundulus pulvereus,Fish Tree of Life,backbone tree
-Fundulus rathbuni,Fish Tree of Life,backbone tree
-Fundulus sciadicus,Fish Tree of Life,backbone tree
-Fundulus seminolis,Fish Tree of Life,backbone tree
-Fundulus stellifer,Fish Tree of Life,backbone tree
-Fundulus zebrinus,Fish Tree of Life,backbone tree
-Gambusia affinis,Fish Tree of Life,backbone tree
-Gambusia geiseri,Fish Tree of Life,backbone tree
-Gambusia holbrooki,Fish Tree of Life,backbone tree
-Gasterosteus aculeatus,Fish Tree of Life,backbone tree
-Gila atraria,Fish Tree of Life,backbone tree
-Gila coerulea,Fish Tree of Life,backbone tree
-Gila cypha,Fish Tree of Life,backbone tree
-Gila elegans,Fish Tree of Life,backbone tree
-Gila intermedia,Fish Tree of Life,backbone tree
-Gila nigrescens,Fish Tree of Life,backbone tree
-Gila orcuttii,Fish Tree of Life,backbone tree
-Gila pandora,Fish Tree of Life,backbone tree
-Gila robusta,Fish Tree of Life,backbone tree
-Gobiomorus dormitor,Fish Tree of Life,backbone tree
-Gobiosoma bosc,Fish Tree of Life,backbone tree
-Gymnocephalus cernua,Fish Tree of Life,backbone tree
-Hemichromis bimaculatus,Fish Tree of Life,backbone tree
-Hemitremia flammea,Fish Tree of Life,backbone tree
-Herichthys cyanoguttatus,Fish Tree of Life,backbone tree
-Hesperoleucus symmetricus,Fish Tree of Life,backbone tree
-Heterandria formosa,Fish Tree of Life,backbone tree
-Hiodon alosoides,Fish Tree of Life,backbone tree
-Hiodon tergisus,Fish Tree of Life,backbone tree
-Hoplosternum littorale,Fish Tree of Life,backbone tree
-Hybognathus amarus,Fish Tree of Life,backbone tree
-Hybognathus argyritis,Fish Tree of Life,backbone tree
-Hybognathus hankinsoni,Fish Tree of Life,backbone tree
-Hybognathus hayi,Fish Tree of Life,backbone tree
-Hybognathus nuchalis,Fish Tree of Life,backbone tree
-Hybognathus placitus,Fish Tree of Life,backbone tree
-Hybognathus regius,Fish Tree of Life,backbone tree
-Hybopsis amblops,Fish Tree of Life,backbone tree
-Hybopsis amnis,Fish Tree of Life,backbone tree
-Hybopsis hypsinotus,Fish Tree of Life,backbone tree
-Hybopsis lineapunctata,Fish Tree of Life,backbone tree
-Hybopsis rubrifrons,Fish Tree of Life,backbone tree
-Hybopsis winchelli,Fish Tree of Life,backbone tree
-Hypentelium etowanum,Fish Tree of Life,backbone tree
-Hypentelium nigricans,Fish Tree of Life,backbone tree
-Hypentelium roanokense,Fish Tree of Life,backbone tree
-Hypophthalmichthys molitrix,Fish Tree of Life,backbone tree
-Hypophthalmichthys nobilis,Fish Tree of Life,backbone tree
-Hysterocarpus traskii,Fish Tree of Life,backbone tree
-Ictalurus furcatus,Fish Tree of Life,backbone tree
-Ictalurus lupus,Fish Tree of Life,backbone tree
-Ictalurus punctatus,Fish Tree of Life,backbone tree
-Ictiobus bubalus,Fish Tree of Life,backbone tree
-Ictiobus cyprinellus,Fish Tree of Life,backbone tree
-Ictiobus niger,Fish Tree of Life,backbone tree
-Iotichthys phlegethontis,Fish Tree of Life,backbone tree
-Jordanella floridae,Fish Tree of Life,backbone tree
-Labidesthes sicculus,Fish Tree of Life,backbone tree
-Lagodon rhomboides,Fish Tree of Life,backbone tree
-Lavinia exilicauda,Fish Tree of Life,backbone tree
-Leiostomus xanthurus,Fish Tree of Life,backbone tree
-Lepidomeda vittata,Fish Tree of Life,backbone tree
-Lepisosteus oculatus,Fish Tree of Life,backbone tree
-Lepisosteus osseus,Fish Tree of Life,backbone tree
-Lepisosteus platostomus,Fish Tree of Life,backbone tree
-Lepisosteus platyrhincus,Fish Tree of Life,backbone tree
-Lepomis auritus,Fish Tree of Life,backbone tree
-Lepomis cyanellus,Fish Tree of Life,backbone tree
-Lepomis gibbosus,Fish Tree of Life,backbone tree
-Lepomis gulosus,Fish Tree of Life,backbone tree
-Lepomis humilis,Fish Tree of Life,backbone tree
-Lepomis macrochirus,Fish Tree of Life,backbone tree
-Lepomis marginatus,Fish Tree of Life,backbone tree
-Lepomis megalotis,Fish Tree of Life,backbone tree
-Lepomis microlophus,Fish Tree of Life,backbone tree
-Lepomis miniatus,Fish Tree of Life,backbone tree
-Lepomis punctatus,Fish Tree of Life,backbone tree
-Lepomis symmetricus,Fish Tree of Life,backbone tree
-Lota lota,Fish Tree of Life,backbone tree
-Lucania goodei,Fish Tree of Life,backbone tree
-Lucania parva,Fish Tree of Life,backbone tree
-Lutjanus griseus,Fish Tree of Life,backbone tree
-Luxilus albeolus,Fish Tree of Life,backbone tree
-Luxilus cardinalis,Fish Tree of Life,backbone tree
-Luxilus cerasinus,Fish Tree of Life,backbone tree
-Luxilus chrysocephalus,Fish Tree of Life,backbone tree
-Luxilus coccogenis,Fish Tree of Life,backbone tree
-Luxilus cornutus,Fish Tree of Life,backbone tree
-Luxilus pilsbryi,Fish Tree of Life,backbone tree
-Luxilus zonatus,Fish Tree of Life,backbone tree
-Luxilus zonistius,Fish Tree of Life,backbone tree
-Lythrurus alegnotus,Fish Tree of Life,backbone tree
-Lythrurus ardens,Fish Tree of Life,backbone tree
-Lythrurus atrapiculus,Fish Tree of Life,backbone tree
-Lythrurus bellus,Fish Tree of Life,backbone tree
-Lythrurus fasciolaris,Fish Tree of Life,backbone tree
-Lythrurus fumeus,Fish Tree of Life,backbone tree
-Lythrurus lirus,Fish Tree of Life,backbone tree
-Lythrurus matutinus,Fish Tree of Life,backbone tree
-Lythrurus roseipinnis,Fish Tree of Life,backbone tree
-Lythrurus snelsoni,Fish Tree of Life,backbone tree
-Lythrurus umbratilis,Fish Tree of Life,backbone tree
-Macrhybopsis aestivalis,Fish Tree of Life,backbone tree
-Macrhybopsis gelida,Fish Tree of Life,backbone tree
-Macrhybopsis hyostoma,Fish Tree of Life,backbone tree
-Macrhybopsis marconis,Fish Tree of Life,backbone tree
-Macrhybopsis storeriana,Fish Tree of Life,backbone tree
-Margariscus margarita,Fish Tree of Life,backbone tree
-Meda fulgida,Fish Tree of Life,backbone tree
-Megalops atlanticus,Fish Tree of Life,backbone tree
-Membras martinica,Fish Tree of Life,backbone tree
-Menidia beryllina,Fish Tree of Life,backbone tree
-Menidia menidia,Fish Tree of Life,backbone tree
-Microgadus tomcod,Fish Tree of Life,backbone tree
-Micropogonias undulatus,Fish Tree of Life,backbone tree
-Micropterus notius,Fish Tree of Life,backbone tree
-Minytrema melanops,Fish Tree of Life,backbone tree
-Misgurnus anguillicaudatus,Fish Tree of Life,backbone tree
-Monopterus albus,Fish Tree of Life,backbone tree
-Morone americana,Fish Tree of Life,backbone tree
-Morone chrysops,Fish Tree of Life,backbone tree
-Morone mississippiensis,Fish Tree of Life,backbone tree
-Morone saxatilis,Fish Tree of Life,backbone tree
-Moxostoma anisurum,Fish Tree of Life,backbone tree
-Moxostoma ariommum,Fish Tree of Life,backbone tree
-Moxostoma breviceps,Fish Tree of Life,backbone tree
-Moxostoma carinatum,Fish Tree of Life,backbone tree
-Moxostoma cervinum,Fish Tree of Life,backbone tree
-Moxostoma collapsum,Fish Tree of Life,backbone tree
-Moxostoma congestum,Fish Tree of Life,backbone tree
-Moxostoma duquesnei,Fish Tree of Life,backbone tree
-Moxostoma erythrurum,Fish Tree of Life,backbone tree
-Moxostoma lachneri,Fish Tree of Life,backbone tree
-Moxostoma macrolepidotum,Fish Tree of Life,backbone tree
-Moxostoma pappillosum,Fish Tree of Life,backbone tree
-Moxostoma pisolabrum,Fish Tree of Life,backbone tree
-Moxostoma poecilurum,Fish Tree of Life,backbone tree
-Moxostoma robustum,Fish Tree of Life,backbone tree
-Moxostoma rupiscartes,Fish Tree of Life,backbone tree
-Moxostoma valenciennesi,Fish Tree of Life,backbone tree
-Mugil cephalus,Fish Tree of Life,backbone tree
-Mugil curema,Fish Tree of Life,backbone tree
-Mylocheilus caurinus,Fish Tree of Life,backbone tree
-Mylopharodon conocephalus,Fish Tree of Life,backbone tree
-Mylopharyngodon piceus,Fish Tree of Life,backbone tree
-Myrophis punctatus,Fish Tree of Life,backbone tree
-Nocomis asper,Fish Tree of Life,backbone tree
-Nocomis biguttatus,Fish Tree of Life,backbone tree
-Nocomis effusus,Fish Tree of Life,backbone tree
-Nocomis leptocephalus,Fish Tree of Life,backbone tree
-Nocomis micropogon,Fish Tree of Life,backbone tree
-Nocomis platyrhynchus,Fish Tree of Life,backbone tree
-Nocomis raneyi,Fish Tree of Life,backbone tree
-Notemigonus crysoleucas,Fish Tree of Life,backbone tree
-Notropis altipinnis,Fish Tree of Life,backbone tree
-Notropis amabilis,Fish Tree of Life,backbone tree
-Notropis ammophilus,Fish Tree of Life,backbone tree
-Notropis amoenus,Fish Tree of Life,backbone tree
-Notropis anogenus,Fish Tree of Life,backbone tree
-Notropis ariommus,Fish Tree of Life,backbone tree
-Notropis asperifrons,Fish Tree of Life,backbone tree
-Notropis atherinoides,Fish Tree of Life,backbone tree
-Notropis baileyi,Fish Tree of Life,backbone tree
-Notropis bifrenatus,Fish Tree of Life,backbone tree
-Notropis blennius,Fish Tree of Life,backbone tree
-Notropis boops,Fish Tree of Life,backbone tree
-Notropis buccatus,Fish Tree of Life,backbone tree
-Notropis buchanani,Fish Tree of Life,backbone tree
-Notropis cahabae,Fish Tree of Life,backbone tree
-Notropis candidus,Fish Tree of Life,backbone tree
-Notropis chalybaeus,Fish Tree of Life,backbone tree
-Notropis chihuahua,Fish Tree of Life,backbone tree
-Notropis chiliticus,Fish Tree of Life,backbone tree
-Notropis chlorocephalus,Fish Tree of Life,backbone tree
-Notropis chrosomus,Fish Tree of Life,backbone tree
-Notropis dorsalis,Fish Tree of Life,backbone tree
-Notropis edwardraneyi,Fish Tree of Life,backbone tree
-Notropis girardi,Fish Tree of Life,backbone tree
-Notropis harperi,Fish Tree of Life,backbone tree
-Notropis heterodon,Fish Tree of Life,backbone tree
-Notropis heterolepis,Fish Tree of Life,backbone tree
-Notropis hudsonius,Fish Tree of Life,backbone tree
-Notropis hypsilepis,Fish Tree of Life,backbone tree
-Notropis jemezanus,Fish Tree of Life,backbone tree
-Notropis leuciodus,Fish Tree of Life,backbone tree
-Notropis longirostris,Fish Tree of Life,backbone tree
-Notropis lutipinnis,Fish Tree of Life,backbone tree
-Notropis maculatus,Fish Tree of Life,backbone tree
-Notropis mekistocholas,Fish Tree of Life,backbone tree
-Notropis micropteryx,Fish Tree of Life,backbone tree
-Notropis nubilus,Fish Tree of Life,backbone tree
-Notropis oxyrhynchus,Fish Tree of Life,backbone tree
-Notropis ozarcanus,Fish Tree of Life,backbone tree
-Notropis percobromus,Fish Tree of Life,backbone tree
-Notropis petersoni,Fish Tree of Life,backbone tree
-Notropis photogenis,Fish Tree of Life,backbone tree
-Notropis potteri,Fish Tree of Life,backbone tree
-Notropis procne,Fish Tree of Life,backbone tree
-Notropis rafinesquei,Fish Tree of Life,backbone tree
-Notropis rubellus,Fish Tree of Life,backbone tree
-Notropis rubricroceus,Fish Tree of Life,backbone tree
-Notropis sabinae,Fish Tree of Life,backbone tree
-Notropis scepticus,Fish Tree of Life,backbone tree
-Notropis semperasper,Fish Tree of Life,backbone tree
-Notropis shumardi,Fish Tree of Life,backbone tree
-Notropis simus,Fish Tree of Life,backbone tree
-Notropis spectrunculus,Fish Tree of Life,backbone tree
-Notropis stilbius,Fish Tree of Life,backbone tree
-Notropis stramineus,Fish Tree of Life,backbone tree
-Notropis suttkusi,Fish Tree of Life,backbone tree
-Notropis telescopus,Fish Tree of Life,backbone tree
-Notropis texanus,Fish Tree of Life,backbone tree
-Notropis topeka,Fish Tree of Life,backbone tree
-Notropis uranoscopus,Fish Tree of Life,backbone tree
-Notropis volucellus,Fish Tree of Life,backbone tree
-Notropis wickliffi,Fish Tree of Life,backbone tree
-Notropis xaenocephalus,Fish Tree of Life,backbone tree
-Noturus albater,Fish Tree of Life,backbone tree
-Noturus elegans,Fish Tree of Life,backbone tree
-Noturus eleutherus,Fish Tree of Life,backbone tree
-Noturus exilis,Fish Tree of Life,backbone tree
-Noturus flavater,Fish Tree of Life,backbone tree
-Noturus flavipinnis,Fish Tree of Life,backbone tree
-Noturus flavus,Fish Tree of Life,backbone tree
-Noturus funebris,Fish Tree of Life,backbone tree
-Noturus furiosus,Fish Tree of Life,backbone tree
-Noturus gilberti,Fish Tree of Life,backbone tree
-Noturus gladiator,Fish Tree of Life,backbone tree
-Noturus gyrinus,Fish Tree of Life,backbone tree
-Noturus hildebrandi,Fish Tree of Life,backbone tree
-Noturus insignis,Fish Tree of Life,backbone tree
-Noturus lachneri,Fish Tree of Life,backbone tree
-Noturus leptacanthus,Fish Tree of Life,backbone tree
-Noturus maydeni,Fish Tree of Life,backbone tree
-Noturus miurus,Fish Tree of Life,backbone tree
-Noturus munitus,Fish Tree of Life,backbone tree
-Noturus nocturnus,Fish Tree of Life,backbone tree
-Noturus phaeus,Fish Tree of Life,backbone tree
-Noturus placidus,Fish Tree of Life,backbone tree
-Noturus stigmosus,Fish Tree of Life,backbone tree
-Noturus taylori,Fish Tree of Life,backbone tree
-Novumbra hubbsi,Fish Tree of Life,backbone tree
-Oligolepis acutipennis,Fish Tree of Life,backbone tree
-Oligoplites saurus,Fish Tree of Life,backbone tree
-Oncorhynchus apache,Fish Tree of Life,backbone tree
-Oncorhynchus clarkii,Fish Tree of Life,backbone tree
-Oncorhynchus gilae,Fish Tree of Life,backbone tree
-Oncorhynchus gorbuscha,Fish Tree of Life,backbone tree
-Oncorhynchus keta,Fish Tree of Life,backbone tree
-Oncorhynchus kisutch,Fish Tree of Life,backbone tree
-Oncorhynchus mykiss,Fish Tree of Life,backbone tree
-Oncorhynchus nerka,Fish Tree of Life,backbone tree
-Oncorhynchus tshawytscha,Fish Tree of Life,backbone tree
-Ophichthus gomesii,Fish Tree of Life,backbone tree
-Opsanus beta,Fish Tree of Life,backbone tree
-Opsopoeodus emiliae,Fish Tree of Life,backbone tree
-Oregonichthys kalawatseti,Fish Tree of Life,backbone tree
-Oreochromis aureus,Fish Tree of Life,backbone tree
-Oreochromis mossambicus,Fish Tree of Life,backbone tree
-Oreochromis niloticus,Fish Tree of Life,backbone tree
-Orthodon microlepidotus,Fish Tree of Life,backbone tree
-Osmerus mordax,Fish Tree of Life,backbone tree
-Osteoglossum bicirrhosum,Fish Tree of Life,backbone tree
-Paralichthys lethostigma,Fish Tree of Life,backbone tree
-Pararhinichthys bowersi,Fish Tree of Life,backbone tree
-Perca flavescens,Fish Tree of Life,backbone tree
-Percina apristis,Fish Tree of Life,backbone tree
-Percina aurantiaca,Fish Tree of Life,backbone tree
-Percina aurolineata,Fish Tree of Life,backbone tree
-Percina austroperca,Fish Tree of Life,backbone tree
-Percina bimaculata,Fish Tree of Life,backbone tree
-Percina brevicauda,Fish Tree of Life,backbone tree
-Percina burtoni,Fish Tree of Life,backbone tree
-Percina caprodes,Fish Tree of Life,backbone tree
-Percina carbonaria,Fish Tree of Life,backbone tree
-Percina copelandi,Fish Tree of Life,backbone tree
-Percina crassa,Fish Tree of Life,backbone tree
-Percina cymatotaenia,Fish Tree of Life,backbone tree
-Percina evides,Fish Tree of Life,backbone tree
-Percina fulvitaenia,Fish Tree of Life,backbone tree
-Percina gymnocephala,Fish Tree of Life,backbone tree
-Percina kathae,Fish Tree of Life,backbone tree
-Percina kusha,Fish Tree of Life,backbone tree
-Percina lenticula,Fish Tree of Life,backbone tree
-Percina macrocephala,Fish Tree of Life,backbone tree
-Percina macrolepida,Fish Tree of Life,backbone tree
-Percina maculata,Fish Tree of Life,backbone tree
-Percina nasuta,Fish Tree of Life,backbone tree
-Percina nevisense,Fish Tree of Life,backbone tree
-Percina nigrofasciata,Fish Tree of Life,backbone tree
-Percina notogramma,Fish Tree of Life,backbone tree
-Percina oxyrhynchus,Fish Tree of Life,backbone tree
-Percina palmaris,Fish Tree of Life,backbone tree
-Percina pantherina,Fish Tree of Life,backbone tree
-Percina peltata,Fish Tree of Life,backbone tree
-Percina phoxocephala,Fish Tree of Life,backbone tree
-Percina rex,Fish Tree of Life,backbone tree
-Percina roanoka,Fish Tree of Life,backbone tree
-Percina sciera,Fish Tree of Life,backbone tree
-Percina shumardi,Fish Tree of Life,backbone tree
-Percina sipsi,Fish Tree of Life,backbone tree
-Percina smithvanizi,Fish Tree of Life,backbone tree
-Percina squamata,Fish Tree of Life,backbone tree
-Percina stictogaster,Fish Tree of Life,backbone tree
-Percina suttkusi,Fish Tree of Life,backbone tree
-Percina tanasi,Fish Tree of Life,backbone tree
-Percina uranidea,Fish Tree of Life,backbone tree
-Percina vigil,Fish Tree of Life,backbone tree
-Percina williamsi,Fish Tree of Life,backbone tree
-Percopsis omiscomaycus,Fish Tree of Life,backbone tree
-Percopsis transmontana,Fish Tree of Life,backbone tree
-Phenacobius catostomus,Fish Tree of Life,backbone tree
-Phenacobius crassilabrum,Fish Tree of Life,backbone tree
-Phenacobius mirabilis,Fish Tree of Life,backbone tree
-Phenacobius teretulus,Fish Tree of Life,backbone tree
-Phenacobius uranops,Fish Tree of Life,backbone tree
-Pimephales notatus,Fish Tree of Life,backbone tree
-Pimephales promelas,Fish Tree of Life,backbone tree
-Pimephales tenellus,Fish Tree of Life,backbone tree
-Pimephales vigilax,Fish Tree of Life,backbone tree
-Platygobio gracilis,Fish Tree of Life,backbone tree
-Poecilia latipinna,Fish Tree of Life,backbone tree
-Poecilia reticulata,Fish Tree of Life,backbone tree
-Poeciliopsis occidentalis,Fish Tree of Life,backbone tree
-Pogonias cromis,Fish Tree of Life,backbone tree
-Pogonichthys macrolepidotus,Fish Tree of Life,backbone tree
-Polyodon spathula,Fish Tree of Life,backbone tree
-Pomatomus saltatrix,Fish Tree of Life,backbone tree
-Pomoxis annularis,Fish Tree of Life,backbone tree
-Pomoxis nigromaculatus,Fish Tree of Life,backbone tree
-Prosopium coulterii,Fish Tree of Life,backbone tree
-Prosopium cylindraceum,Fish Tree of Life,backbone tree
-Prosopium williamsoni,Fish Tree of Life,backbone tree
-Proterorhinus semilunaris,Fish Tree of Life,backbone tree
-Pteronotropis euryzonus,Fish Tree of Life,backbone tree
-Pteronotropis grandipinnis,Fish Tree of Life,backbone tree
-Pteronotropis hubbsi,Fish Tree of Life,backbone tree
-Pteronotropis hypselopterus,Fish Tree of Life,backbone tree
-Pteronotropis metallicus,Fish Tree of Life,backbone tree
-Pteronotropis signipinnis,Fish Tree of Life,backbone tree
-Pteronotropis welaka,Fish Tree of Life,backbone tree
-Pterygoplichthys disjunctivus,Fish Tree of Life,backbone tree
-Pterygoplichthys multiradiatus,Fish Tree of Life,backbone tree
-Ptychocheilus grandis,Fish Tree of Life,backbone tree
-Ptychocheilus lucius,Fish Tree of Life,backbone tree
-Ptychocheilus oregonensis,Fish Tree of Life,backbone tree
-Ptychocheilus umpquae,Fish Tree of Life,backbone tree
-Pungitius pungitius,Fish Tree of Life,backbone tree
-Pylodictis olivaris,Fish Tree of Life,backbone tree
-Rhinichthys atratulus,Fish Tree of Life,backbone tree
-Rhinichthys cataractae,Fish Tree of Life,backbone tree
-Rhinichthys cobitis,Fish Tree of Life,backbone tree
-Rhinichthys evermanni,Fish Tree of Life,backbone tree
-Rhinichthys falcatus,Fish Tree of Life,backbone tree
-Rhinichthys obtusus,Fish Tree of Life,backbone tree
-Rhinichthys osculus,Fish Tree of Life,backbone tree
-Rhinichthys umatilla,Fish Tree of Life,backbone tree
-Richardsonius balteatus,Fish Tree of Life,backbone tree
-Richardsonius egregius,Fish Tree of Life,backbone tree
-Rocio octofasciata,Fish Tree of Life,backbone tree
-Salmo salar,Fish Tree of Life,backbone tree
-Salmo trutta,Fish Tree of Life,backbone tree
-Salvelinus confluentus,Fish Tree of Life,backbone tree
-Salvelinus fontinalis,Fish Tree of Life,backbone tree
-Salvelinus malma,Fish Tree of Life,backbone tree
-Salvelinus namaycush,Fish Tree of Life,backbone tree
-Sander canadensis,Fish Tree of Life,backbone tree
-Sander vitreus,Fish Tree of Life,backbone tree
-Scaphirhynchus albus,Fish Tree of Life,backbone tree
-Scaphirhynchus platorynchus,Fish Tree of Life,backbone tree
-Scardinius erythrophthalmus,Fish Tree of Life,backbone tree
-Sciaenops ocellatus,Fish Tree of Life,backbone tree
-Semotilus atromaculatus,Fish Tree of Life,backbone tree
-Semotilus corporalis,Fish Tree of Life,backbone tree
-Semotilus lumbee,Fish Tree of Life,backbone tree
-Semotilus thoreauianus,Fish Tree of Life,backbone tree
-Siphateles bicolor,Fish Tree of Life,backbone tree
-Strongylura marina,Fish Tree of Life,backbone tree
-Syngnathus scovelli,Fish Tree of Life,backbone tree
-Thaleichthys pacificus,Fish Tree of Life,backbone tree
-Thoburnia atripinnis,Fish Tree of Life,backbone tree
-Thoburnia hamiltoni,Fish Tree of Life,backbone tree
-Thoburnia rhothoeca,Fish Tree of Life,backbone tree
-Thymallus arcticus,Fish Tree of Life,backbone tree
-Tinca tinca,Fish Tree of Life,backbone tree
-Trinectes maculatus,Fish Tree of Life,backbone tree
-Umbra limi,Fish Tree of Life,backbone tree
-Umbra pygmaea,Fish Tree of Life,backbone tree
-Xyrauchen texanus,Fish Tree of Life,backbone tree
-Cottus sp. Colorado River Sculpin,"Described as being related to Cottus annae (Young et al., 2022)",Literature review
-Cottus sp. Rocky Mountain Sculpin,Described as Cottus sp. Cf bairdii,Literature review
-Cottus sp. Columbia Slimy Sculpin,"Described as being related to Cottus annae (Young et al., 2022)",Literature review
-Clinostomus sp. Smoky Dace,Described as Clinostomus sp. cf. funduloides,Literature review
-Catostomus utawana,"Formerly  described as Catostomus commersonii. (Morse & Daniels, 2009)",Literature review
-Cottus immaculatus,"Formerly described as Cottus hypselurus (Kinziger & Wood, 2010)",Literature review
-Macrhybopsis australis,"Described as sister species to Macrhybopsis tetranema (Underwood et al., 2003)",Literature review
-Margariscus nachtriebi,Margariscus margarita is the only other species in this genus,Literature review
-Menidia audens,"Formerly described as Menidia beryllina (Fluker et al., 2011)",Literature review
-Moxostoma sp. Carolina Redhorse,Described as Moxostoma sp. cf. erythrurum,Literature review
-Notropis buccula,"Formerly described as Notropis bairdi (Page & Burr, 1991)",Literature review
-Notropis sp. Piedmont Shiner,Described as Notropis sp. cf. chlorocephalus ,Literature review
-Notropis albizonatus,"Described as a member of the Notropis procne species group (Warren et al., 1994)",Literature review
-Notropis sp. Kanawha Rosyface Shiner,Described as Notropis sp. Cf. rubellus,Literature review
-Noturus sp. Highlands Stonecat,Described as Noturus sp. cf. flavus,Literature review
-Oncorhynchus aguabonita,"Formerly described as Oncorhynchus mykiss (NatureServe, 2010)",Literature review
-Elassoma okatie,elassoma_sandel_et_al_2014.nwk.txt,phylogram
-Etheostoma atripinne,percidea_near_et_al_2011.nex,phylogram
-Etheostoma gutselli,percidea_near_et_al_2011.nex,phylogram
-Etheostoma jimmycarter,percidea_near_et_al_2011.nex,phylogram
-Etheostoma sp. Blueface Darter,percidea_near_et_al_2011.nex,phylogram
-Etheostoma sp. Clarks Darter,percidea_near_et_al_2011.nex,phylogram
-Etheostoma sp. Mamequit Darter,percidea_near_et_al_2011.nex,phylogram
-Etheostoma sp. Sipsey Darter,percidea_near_et_al_2011.nex,phylogram
-Etheostoma trisella,percidea_near_et_al_2011.nex,phylogram
-Cyprinella sp. Thinlip Chub,see graphial tree in Schönhuth & Mayden (2010),non-time calibrated
-Notropis sp. Sawfin Shiner,see graphical tree in Hollingsworth et al. (2013),non-time calibrated
-Cottus kanawhae,see graphical tree in Kinziger et al. (2005),non-time calibrated
-Cottus sp. Bluestone Sculpin,see graphical tree in Kinziger et al. (2005),non-time calibrated
-Cottus sp. Checkered Sculpin,see graphical tree in Kinziger et al. (2005),non-time calibrated
-Cottus sp. Clinch Sculpin,see graphical tree in Kinziger et al. (2005),non-time calibrated
-Cottus sp. Holston Sculpin,see graphical tree in Kinziger et al. (2005),non-time calibrated
-Etheostoma gore,see graphical tree in Layman & Mayden (2012),non-time calibrated
-Etheostoma teddyroosevelt,see graphical tree in Layman & Mayden (2012),non-time calibrated
-Pteronotropis stonei,see graphical tree in Mayden & Allen (2015),non-time calibrated
-Catostomus fumeiventris,Catostomidae_Bagley_et_al_2018.phy,chronogram
-Catostomus latipinnis,Catostomidae_Bagley_et_al_2018.phy,chronogram
-Moxostoma sp. Apalachicola Redhorse,Catostomidae_Bagley_et_al_2018.phy,chronogram
-Moxostoma sp. Brassy Jumprock,Catostomidae_Bagley_et_al_2018.phy,chronogram
-Moxostoma sp. Sicklefin Redhorse,Catostomidae_Bagley_et_al_2018.phy,chronogram
+Acantharchus pomotis,Fish Tree of Life,chronogram
+Achirus lineatus,Fish Tree of Life,chronogram
+Acipenser brevirostrum,Fish Tree of Life,chronogram
+Acipenser fulvescens,Fish Tree of Life,chronogram
+Acipenser oxyrinchus,Fish Tree of Life,chronogram
+Acrocheilus alutaceus,Fish Tree of Life,chronogram
+Agonostomus monticola,Fish Tree of Life,chronogram
+Agosia chrysogaster,Fish Tree of Life,chronogram
+Alosa aestivalis,Fish Tree of Life,chronogram
+Alosa alabamae,Fish Tree of Life,chronogram
+Alosa chrysochloris,Fish Tree of Life,chronogram
+Alosa mediocris,Fish Tree of Life,chronogram
+Alosa pseudoharengus,Fish Tree of Life,chronogram
+Alosa sapidissima,Fish Tree of Life,chronogram
+Ambloplites ariommus,Fish Tree of Life,chronogram
+Ambloplites cavifrons,Fish Tree of Life,chronogram
+Ambloplites constellatus,Fish Tree of Life,chronogram
+Ambloplites rupestris,Fish Tree of Life,chronogram
+Ameiurus brunneus,Fish Tree of Life,chronogram
+Ameiurus catus,Fish Tree of Life,chronogram
+Ameiurus melas,Fish Tree of Life,chronogram
+Ameiurus natalis,Fish Tree of Life,chronogram
+Ameiurus nebulosus,Fish Tree of Life,chronogram
+Ameiurus platycephalus,Fish Tree of Life,chronogram
+Ameiurus serracanthus,Fish Tree of Life,chronogram
+Amia calva,Fish Tree of Life,chronogram
+Ammocrypta beanii,Fish Tree of Life,chronogram
+Ammocrypta bifascia,Fish Tree of Life,chronogram
+Ammocrypta clara,Fish Tree of Life,chronogram
+Ammocrypta meridiana,Fish Tree of Life,chronogram
+Ammocrypta pellucida,Fish Tree of Life,chronogram
+Ammocrypta vivax,Fish Tree of Life,chronogram
+Anchoa hepsetus,Fish Tree of Life,chronogram
+Anchoa mitchilli,Fish Tree of Life,chronogram
+Anguilla rostrata,Fish Tree of Life,chronogram
+Apeltes quadracus,Fish Tree of Life,chronogram
+Aphredoderus sayanus,Fish Tree of Life,chronogram
+Aplodinotus grunniens,Fish Tree of Life,chronogram
+Archoplites interruptus,Fish Tree of Life,chronogram
+Archosargus probatocephalus,Fish Tree of Life,chronogram
+Ariopsis felis,Fish Tree of Life,chronogram
+Astyanax mexicanus,Fish Tree of Life,chronogram
+Atractosteus spatula,Fish Tree of Life,chronogram
+Awaous banana,Fish Tree of Life,chronogram
+Bagre marinus,Fish Tree of Life,chronogram
+Bairdiella chrysoura,Fish Tree of Life,chronogram
+Bothus robinsi,Fish Tree of Life,chronogram
+Brevoortia patronus,Fish Tree of Life,chronogram
+Brevoortia tyrannus,Fish Tree of Life,chronogram
 Campostoma anomalum,cyprinids_hollingsworth_et_al_2013.phy,chronogram
 Campostoma oligolepis,cyprinids_hollingsworth_et_al_2013.phy,chronogram
 Campostoma ornatum,cyprinids_hollingsworth_et_al_2013.phy,chronogram
 Campostoma pauciradii,cyprinids_hollingsworth_et_al_2013.phy,chronogram
 Campostoma spadiceum,cyprinids_hollingsworth_et_al_2013.phy,chronogram
-Notropis amplamala,cyprinids_hollingsworth_et_al_2013.phy,chronogram
+Caranx hippos,Fish Tree of Life,chronogram
+Carassius auratus,Fish Tree of Life,chronogram
+Carpiodes carpio,Fish Tree of Life,chronogram
+Carpiodes cyprinus,Fish Tree of Life,chronogram
+Carpiodes velifer,Fish Tree of Life,chronogram
+Catostomus ardens,Fish Tree of Life,chronogram
+Catostomus catostomus,Fish Tree of Life,chronogram
+Catostomus clarkii,Fish Tree of Life,chronogram
+Catostomus columbianus,Fish Tree of Life,chronogram
+Catostomus commersonii,Fish Tree of Life,chronogram
+Catostomus discobolus,Fish Tree of Life,chronogram
+Catostomus fumeiventris,Catostomidae_Bagley_et_al_2018.phy,chronogram
+Catostomus insignis,Fish Tree of Life,chronogram
+Catostomus latipinnis,Catostomidae_Bagley_et_al_2018.phy,chronogram
+Catostomus macrocheilus,Fish Tree of Life,chronogram
+Catostomus occidentalis,Fish Tree of Life,chronogram
+Catostomus platyrhynchus,Fish Tree of Life,chronogram
+Catostomus plebeius,Fish Tree of Life,chronogram
+Catostomus rimiculus,Fish Tree of Life,chronogram
+Catostomus santaanae,Fish Tree of Life,chronogram
+Catostomus snyderi,Fish Tree of Life,chronogram
+Catostomus tahoensis,Fish Tree of Life,chronogram
+Catostomus utawana,"Formerly  described as Catostomus commersonii. (Morse & Daniels, 2009)",Literature review
+Centrarchus macropterus,Fish Tree of Life,chronogram
+Centropomus undecimalis,Fish Tree of Life,chronogram
+Channa argus,Fish Tree of Life,chronogram
+Channa micropeltes,Fish Tree of Life,chronogram
+Chologaster cornuta,Fish Tree of Life,chronogram
+Chrosomus cumberlandensis,Fish Tree of Life,chronogram
+Chrosomus eos,Fish Tree of Life,chronogram
+Chrosomus erythrogaster,Fish Tree of Life,chronogram
+Chrosomus neogaeus,timetree_Chrosomus.nwk,chronogram
+Chrosomus oreas,Fish Tree of Life,chronogram
+Chrosomus tennesseensis,Fish Tree of Life,chronogram
+Cichlasoma bimaculatum,Fish Tree of Life,chronogram
+Cichlasoma urophthalmus,Fish Tree of Life,chronogram
+Citharichthys spilopterus,Fish Tree of Life,chronogram
+Clarias batrachus,Fish Tree of Life,chronogram
+Clinostomus elongatus,Fish Tree of Life,chronogram
+Clinostomus funduloides,Fish Tree of Life,chronogram
+Clinostomus sp. Smoky Dace,Described as Clinostomus sp. cf. funduloides,Literature review
+Coregonus artedi,timetree_Coregoninae.nwk,chronogram
+Coregonus clupeaformis,Fish Tree of Life,chronogram
+Cottus aleuticus,Fish Tree of Life,chronogram
+Cottus asper,Fish Tree of Life,chronogram
+Cottus baileyi,Fish Tree of Life,chronogram
+Cottus bairdii,Fish Tree of Life,chronogram
+Cottus beldingii,Fish Tree of Life,chronogram
+Cottus caeruleomentum,Fish Tree of Life,chronogram
+Cottus carolinae,Fish Tree of Life,chronogram
+Cottus chattahoochee,Fish Tree of Life,chronogram
+Cottus cognatus,Fish Tree of Life,chronogram
+Cottus confusus,Fish Tree of Life,chronogram
+Cottus girardi,Fish Tree of Life,chronogram
+Cottus gulosus,Fish Tree of Life,chronogram
+Cottus hypselurus,Fish Tree of Life,chronogram
+Cottus immaculatus,"Formerly described as Cottus hypselurus (Kinziger & Wood, 2010)",Literature review
+Cottus kanawhae,see graphical tree in Kinziger et al. (2005),cladogram
+Cottus klamathensis,Fish Tree of Life,chronogram
+Cottus leiopomus,Fish Tree of Life,chronogram
+Cottus marginatus,Fish Tree of Life,chronogram
+Cottus perplexus,Fish Tree of Life,chronogram
+Cottus pitensis,Fish Tree of Life,chronogram
+Cottus rhotheus,Fish Tree of Life,chronogram
+Cottus ricei,Fish Tree of Life,chronogram
+Cottus sp. Bluestone Sculpin,see graphical tree in Kinziger et al. (2005),cladogram
+Cottus sp. Checkered Sculpin,see graphical tree in Kinziger et al. (2005),cladogram
+Cottus sp. Clinch Sculpin,see graphical tree in Kinziger et al. (2005),cladogram
+Cottus sp. Colorado River Sculpin,"Described as being related to Cottus annae (Young et al., 2022)",Literature review
+Cottus sp. Columbia Slimy Sculpin,"Described as being related to Cottus annae (Young et al., 2022)",Literature review
+Cottus sp. Holston Sculpin,see graphical tree in Kinziger et al. (2005),cladogram
+Cottus sp. Rocky Mountain Sculpin,Described as Cottus sp. Cf bairdii,Literature review
+Cottus tallapoosae,Fish Tree of Life,chronogram
+Cottus tenuis,Fish Tree of Life,chronogram
+Couesius plumbeus,Fish Tree of Life,chronogram
+Crystallaria asprella,Fish Tree of Life,chronogram
+Ctenogobius boleosoma,Fish Tree of Life,chronogram
+Ctenogobius shufeldti,timetree_Gobiiformes.nwk,chronogram
+Ctenopharyngodon idella,Fish Tree of Life,chronogram
+Culaea inconstans,Fish Tree of Life,chronogram
+Cycleptus elongatus,Fish Tree of Life,chronogram
+Cycleptus meridionalis,Fish Tree of Life,chronogram
+Cymatogaster aggregata,Fish Tree of Life,chronogram
+Cynoscion arenarius,Fish Tree of Life,chronogram
+Cynoscion nebulosus,Fish Tree of Life,chronogram
+Cynoscion nothus,Fish Tree of Life,chronogram
+Cyprinella analostana,Fish Tree of Life,chronogram
+Cyprinella caerulea,Fish Tree of Life,chronogram
+Cyprinella callisema,Fish Tree of Life,chronogram
+Cyprinella callistia,Fish Tree of Life,chronogram
+Cyprinella callitaenia,Fish Tree of Life,chronogram
+Cyprinella camura,Fish Tree of Life,chronogram
+Cyprinella chloristia,Fish Tree of Life,chronogram
+Cyprinella galactura,Fish Tree of Life,chronogram
+Cyprinella gibbsi,Fish Tree of Life,chronogram
+Cyprinella labrosa,Fish Tree of Life,chronogram
+Cyprinella leedsi,Fish Tree of Life,chronogram
+Cyprinella lepida,Fish Tree of Life,chronogram
+Cyprinella lutrensis,Fish Tree of Life,chronogram
+Cyprinella nivea,Fish Tree of Life,chronogram
+Cyprinella proserpina,Fish Tree of Life,chronogram
+Cyprinella pyrrhomelas,Fish Tree of Life,chronogram
+Cyprinella sp. Thinlip Chub,see graphial tree in Schönhuth & Mayden (2010),cladogram
+Cyprinella spiloptera,Fish Tree of Life,chronogram
+Cyprinella trichroistia,Fish Tree of Life,chronogram
+Cyprinella venusta,Fish Tree of Life,chronogram
+Cyprinella whipplei,Fish Tree of Life,chronogram
+Cyprinella xaenura,Fish Tree of Life,chronogram
+Cyprinella zanema,Fish Tree of Life,chronogram
+Cyprinodon eximius,Fish Tree of Life,chronogram
+Cyprinodon pecosensis,Fish Tree of Life,chronogram
+Cyprinodon rubrofluviatilis,Fish Tree of Life,chronogram
+Cyprinodon variegatus,Fish Tree of Life,chronogram
+Cyprinus carpio,Fish Tree of Life,chronogram
+Dionda argentosa,Fish Tree of Life,chronogram
+Dionda diaboli,Fish Tree of Life,chronogram
+Dionda episcopa,Fish Tree of Life,chronogram
+Dionda nigrotaeniata,Fish Tree of Life,chronogram
+Dionda serena,Fish Tree of Life,chronogram
+Dormitator maculatus,Fish Tree of Life,chronogram
+Dorosoma cepedianum,Fish Tree of Life,chronogram
+Dorosoma petenense,Fish Tree of Life,chronogram
+Elassoma alabamae,Fish Tree of Life,chronogram
+Elassoma evergladei,Fish Tree of Life,chronogram
+Elassoma gilberti,Fish Tree of Life,chronogram
+Elassoma okatie,elassoma_sandel_et_al_2014.nwk.txt,phylogram
+Elassoma okefenokee,Fish Tree of Life,chronogram
+Elassoma zonatum,Fish Tree of Life,chronogram
+Eleotris amblyopsis,Fish Tree of Life,chronogram
+Eleotris pisonis,Fish Tree of Life,chronogram
+Elops affinis,Fish Tree of Life,chronogram
+Elops saurus,Fish Tree of Life,chronogram
+Enneacanthus chaetodon,Fish Tree of Life,chronogram
+Enneacanthus gloriosus,Fish Tree of Life,chronogram
+Enneacanthus obesus,Fish Tree of Life,chronogram
+Entosphenus tridentatus,timetree_Petromyzontiformes.nwk,chronogram
+Erimonax monachus,timetree_Pogonichthyinae.nwk,chronogram
+Erimystax cahni,Fish Tree of Life,chronogram
+Erimystax dissimilis,Fish Tree of Life,chronogram
+Erimystax harryi,Fish Tree of Life,chronogram
+Erimystax insignis,Fish Tree of Life,chronogram
+Erimystax x-punctatus,Fish Tree of Life,chronogram
 Erimyzon claviformis,erimyzon_hunt_et_al_2021.tre,chronogram
+Erimyzon oblongus,Fish Tree of Life,chronogram
+Erimyzon sucetta,Fish Tree of Life,chronogram
+Erimyzon tenuis,Fish Tree of Life,chronogram
+Esox americanus,Fish Tree of Life,chronogram
+Esox lucius,Fish Tree of Life,chronogram
+Esox masquinongy,Fish Tree of Life,chronogram
+Esox niger,Fish Tree of Life,chronogram
+Etheostoma acuticeps,Fish Tree of Life,chronogram
+Etheostoma aquali,Fish Tree of Life,chronogram
+Etheostoma artesiae,Fish Tree of Life,chronogram
+Etheostoma asprigene,Fish Tree of Life,chronogram
+Etheostoma atripinne,percidea_near_et_al_2011.nex,phylogram
+Etheostoma autumnale,Fish Tree of Life,chronogram
+Etheostoma baileyi,Fish Tree of Life,chronogram
+Etheostoma barbouri,Fish Tree of Life,chronogram
+Etheostoma barrenense,Fish Tree of Life,chronogram
+Etheostoma bellator,Fish Tree of Life,chronogram
+Etheostoma bellum,Fish Tree of Life,chronogram
+Etheostoma blennioides,Fish Tree of Life,chronogram
+Etheostoma blennius,Fish Tree of Life,chronogram
+Etheostoma boschungi,Fish Tree of Life,chronogram
+Etheostoma brevirostrum,Fish Tree of Life,chronogram
+Etheostoma brevispinum,Fish Tree of Life,chronogram
+Etheostoma caeruleum,Fish Tree of Life,chronogram
+Etheostoma camurum,Fish Tree of Life,chronogram
+Etheostoma cervus,Fish Tree of Life,chronogram
+Etheostoma chienense,Fish Tree of Life,chronogram
+Etheostoma chlorobranchium,Fish Tree of Life,chronogram
+Etheostoma chlorosoma,Fish Tree of Life,chronogram
+Etheostoma chuckwachatte,Fish Tree of Life,chronogram
+Etheostoma cinereum,Fish Tree of Life,chronogram
+Etheostoma collettei,Fish Tree of Life,chronogram
+Etheostoma collis,Fish Tree of Life,chronogram
+Etheostoma colorosum,Fish Tree of Life,chronogram
+Etheostoma coosae,Fish Tree of Life,chronogram
+Etheostoma corona,Fish Tree of Life,chronogram
+Etheostoma cragini,Fish Tree of Life,chronogram
+Etheostoma crossopterum,Fish Tree of Life,chronogram
+Etheostoma davisoni,Fish Tree of Life,chronogram
+Etheostoma denoncourti,Fish Tree of Life,chronogram
+Etheostoma derivativum,Fish Tree of Life,chronogram
+Etheostoma ditrema,Fish Tree of Life,chronogram
+Etheostoma douglasi,Fish Tree of Life,chronogram
+Etheostoma duryi,Fish Tree of Life,chronogram
+Etheostoma edwini,Fish Tree of Life,chronogram
+Etheostoma etowahae,Fish Tree of Life,chronogram
+Etheostoma euzonum,Fish Tree of Life,chronogram
+Etheostoma exile,Fish Tree of Life,chronogram
+Etheostoma flabellare,Fish Tree of Life,chronogram
+Etheostoma flavum,Fish Tree of Life,chronogram
+Etheostoma fragi,Fish Tree of Life,chronogram
+Etheostoma fricksium,Fish Tree of Life,chronogram
+Etheostoma fusiforme,Fish Tree of Life,chronogram
+Etheostoma gore,see graphical tree in Layman & Mayden (2012),cladogram
+Etheostoma gracile,Fish Tree of Life,chronogram
+Etheostoma grahami,Fish Tree of Life,chronogram
+Etheostoma gutselli,percidea_near_et_al_2011.nex,phylogram
+Etheostoma histrio,Fish Tree of Life,chronogram
+Etheostoma hopkinsi,Fish Tree of Life,chronogram
+Etheostoma inscriptum,Fish Tree of Life,chronogram
+Etheostoma jessiae,Fish Tree of Life,chronogram
+Etheostoma jimmycarter,percidea_near_et_al_2011.nex,phylogram
+Etheostoma jordani,Fish Tree of Life,chronogram
+Etheostoma juliae,Fish Tree of Life,chronogram
+Etheostoma kanawhae,Fish Tree of Life,chronogram
+Etheostoma kantuckeense,Fish Tree of Life,chronogram
+Etheostoma kennicotti,Fish Tree of Life,chronogram
+Etheostoma lachneri,Fish Tree of Life,chronogram
+Etheostoma lawrencei,Fish Tree of Life,chronogram
+Etheostoma lepidum,Fish Tree of Life,chronogram
+Etheostoma longimanum,Fish Tree of Life,chronogram
+Etheostoma luteovinctum,Fish Tree of Life,chronogram
+Etheostoma lynceum,Fish Tree of Life,chronogram
+Etheostoma maculatum,Fish Tree of Life,chronogram
+Etheostoma mariae,Fish Tree of Life,chronogram
+Etheostoma meadiae,Fish Tree of Life,chronogram
+Etheostoma microlepidum,Fish Tree of Life,chronogram
+Etheostoma microperca,Fish Tree of Life,chronogram
+Etheostoma mihileze,Fish Tree of Life,chronogram
+Etheostoma moorei,Fish Tree of Life,chronogram
+Etheostoma neopterum,Fish Tree of Life,chronogram
+Etheostoma nigripinne,Fish Tree of Life,chronogram
+Etheostoma nigrum,Fish Tree of Life,chronogram
+Etheostoma obeyense,Fish Tree of Life,chronogram
+Etheostoma occidentale,Fish Tree of Life,chronogram
+Etheostoma olmstedi,Fish Tree of Life,chronogram
+Etheostoma oophylax,Fish Tree of Life,chronogram
+Etheostoma orientale,Fish Tree of Life,chronogram
+Etheostoma osburni,Fish Tree of Life,chronogram
+Etheostoma pallididorsum,Fish Tree of Life,chronogram
+Etheostoma parvipinne,Fish Tree of Life,chronogram
+Etheostoma percnurum,Fish Tree of Life,chronogram
+Etheostoma planasaxatile,Fish Tree of Life,chronogram
+Etheostoma podostemone,Fish Tree of Life,chronogram
+Etheostoma proeliare,Fish Tree of Life,chronogram
+Etheostoma pseudovulatum,Fish Tree of Life,chronogram
+Etheostoma punctulatum,Fish Tree of Life,chronogram
+Etheostoma pyrrhogaster,Fish Tree of Life,chronogram
+Etheostoma radiosum,Fish Tree of Life,chronogram
+Etheostoma rafinesquei,Fish Tree of Life,chronogram
+Etheostoma ramseyi,Fish Tree of Life,chronogram
+Etheostoma rufilineatum,Fish Tree of Life,chronogram
+Etheostoma rupestre,Fish Tree of Life,chronogram
+Etheostoma sagitta,Fish Tree of Life,chronogram
+Etheostoma sanguifluum,Fish Tree of Life,chronogram
+Etheostoma scotti,Fish Tree of Life,chronogram
+Etheostoma serrifer,Fish Tree of Life,chronogram
+Etheostoma simoterum,Fish Tree of Life,chronogram
+Etheostoma smithi,Fish Tree of Life,chronogram
+Etheostoma sp. Blueface Darter,percidea_near_et_al_2011.nex,phylogram
+Etheostoma sp. Clarks Darter,percidea_near_et_al_2011.nex,phylogram
+Etheostoma sp. Mamequit Darter,percidea_near_et_al_2011.nex,phylogram
+Etheostoma sp. Sipsey Darter,percidea_near_et_al_2011.nex,phylogram
+Etheostoma spectabile,Fish Tree of Life,chronogram
+Etheostoma spilotum,Fish Tree of Life,chronogram
+Etheostoma squamiceps,Fish Tree of Life,chronogram
+Etheostoma stigmaeum,Fish Tree of Life,chronogram
+Etheostoma susanae,Fish Tree of Life,chronogram
+Etheostoma swaini,Fish Tree of Life,chronogram
+Etheostoma swannanoa,Fish Tree of Life,chronogram
+Etheostoma tallapoosae,Fish Tree of Life,chronogram
+Etheostoma tecumsehi,Fish Tree of Life,chronogram
+Etheostoma teddyroosevelt,see graphical tree in Layman & Mayden (2012),cladogram
+Etheostoma tennesseense,Fish Tree of Life,chronogram
+Etheostoma tetrazonum,Fish Tree of Life,chronogram
+Etheostoma thalassinum,Fish Tree of Life,chronogram
+Etheostoma tippecanoe,Fish Tree of Life,chronogram
+Etheostoma trisella,percidea_near_et_al_2011.nex,phylogram
+Etheostoma uniporum,Fish Tree of Life,chronogram
+Etheostoma variatum,Fish Tree of Life,chronogram
+Etheostoma virgatum,Fish Tree of Life,chronogram
+Etheostoma vitreum,Fish Tree of Life,chronogram
+Etheostoma vulneratum,Fish Tree of Life,chronogram
+Etheostoma wapiti,Fish Tree of Life,chronogram
+Etheostoma whipplei,Fish Tree of Life,chronogram
+Etheostoma zonale,Fish Tree of Life,chronogram
+Etheostoma zonifer,Fish Tree of Life,chronogram
+Etheostoma zonistium,Fish Tree of Life,chronogram
+Eucinostomus argenteus,Fish Tree of Life,chronogram
+Eucinostomus gula,Fish Tree of Life,chronogram
+Eucinostomus harengulus,Fish Tree of Life,chronogram
+Eugerres plumieri,Fish Tree of Life,chronogram
+Evorthodus lyricus,Fish Tree of Life,chronogram
+Exoglossum laurae,Fish Tree of Life,chronogram
+Exoglossum maxillingua,Fish Tree of Life,chronogram
+Forbesichthys agassizii,Fish Tree of Life,chronogram
+Fundulus bifax,Fish Tree of Life,chronogram
+Fundulus blairae,Fish Tree of Life,chronogram
+Fundulus catenatus,Fish Tree of Life,chronogram
+Fundulus chrysotus,Fish Tree of Life,chronogram
+Fundulus cingulatus,Fish Tree of Life,chronogram
+Fundulus confluentus,Fish Tree of Life,chronogram
+Fundulus diaphanus,Fish Tree of Life,chronogram
+Fundulus dispar,Fish Tree of Life,chronogram
+Fundulus escambiae,Fish Tree of Life,chronogram
+Fundulus euryzonus,Fish Tree of Life,chronogram
+Fundulus grandis,Fish Tree of Life,chronogram
+Fundulus heteroclitus,Fish Tree of Life,chronogram
+Fundulus jenkinsi,Fish Tree of Life,chronogram
+Fundulus kansae,Fish Tree of Life,chronogram
+Fundulus lineolatus,Fish Tree of Life,chronogram
+Fundulus majalis,Fish Tree of Life,chronogram
+Fundulus notatus,Fish Tree of Life,chronogram
+Fundulus nottii,Fish Tree of Life,chronogram
+Fundulus olivaceus,Fish Tree of Life,chronogram
+Fundulus pulvereus,Fish Tree of Life,chronogram
+Fundulus rathbuni,Fish Tree of Life,chronogram
+Fundulus sciadicus,Fish Tree of Life,chronogram
+Fundulus seminolis,Fish Tree of Life,chronogram
+Fundulus stellifer,Fish Tree of Life,chronogram
+Fundulus zebrinus,Fish Tree of Life,chronogram
+Gambusia affinis,Fish Tree of Life,chronogram
+Gambusia geiseri,Fish Tree of Life,chronogram
+Gambusia holbrooki,Fish Tree of Life,chronogram
+Gasterosteus aculeatus,Fish Tree of Life,chronogram
+Gila atraria,Fish Tree of Life,chronogram
+Gila coerulea,Fish Tree of Life,chronogram
+Gila cypha,Fish Tree of Life,chronogram
+Gila elegans,Fish Tree of Life,chronogram
+Gila intermedia,Fish Tree of Life,chronogram
+Gila nigrescens,Fish Tree of Life,chronogram
+Gila orcuttii,Fish Tree of Life,chronogram
+Gila pandora,Fish Tree of Life,chronogram
+Gila robusta,Fish Tree of Life,chronogram
+Gobioides broussonetii,timetree_Gobiiformes.nwk,chronogram
+Gobiomorus dormitor,Fish Tree of Life,chronogram
+Gobiosoma bosc,Fish Tree of Life,chronogram
+Gymnocephalus cernua,Fish Tree of Life,chronogram
+Hemichromis bimaculatus,Fish Tree of Life,chronogram
+Hemitremia flammea,Fish Tree of Life,chronogram
+Herichthys cyanoguttatus,Fish Tree of Life,chronogram
+Hesperoleucus symmetricus,Fish Tree of Life,chronogram
+Heterandria formosa,Fish Tree of Life,chronogram
+Hiodon alosoides,Fish Tree of Life,chronogram
+Hiodon tergisus,Fish Tree of Life,chronogram
+Hoplosternum littorale,Fish Tree of Life,chronogram
+Hybognathus amarus,Fish Tree of Life,chronogram
+Hybognathus argyritis,Fish Tree of Life,chronogram
+Hybognathus hankinsoni,Fish Tree of Life,chronogram
+Hybognathus hayi,Fish Tree of Life,chronogram
+Hybognathus nuchalis,Fish Tree of Life,chronogram
+Hybognathus placitus,Fish Tree of Life,chronogram
+Hybognathus regius,Fish Tree of Life,chronogram
+Hybopsis amblops,Fish Tree of Life,chronogram
+Hybopsis amnis,Fish Tree of Life,chronogram
+Hybopsis hypsinotus,Fish Tree of Life,chronogram
+Hybopsis lineapunctata,Fish Tree of Life,chronogram
+Hybopsis rubrifrons,Fish Tree of Life,chronogram
+Hybopsis winchelli,Fish Tree of Life,chronogram
+Hypentelium etowanum,Fish Tree of Life,chronogram
+Hypentelium nigricans,Fish Tree of Life,chronogram
+Hypentelium roanokense,Fish Tree of Life,chronogram
+Hypophthalmichthys molitrix,Fish Tree of Life,chronogram
+Hypophthalmichthys nobilis,Fish Tree of Life,chronogram
+Hypostomus plecostomus,timetree_Loricariidae.nwk,chronogram
+Hysterocarpus traskii,Fish Tree of Life,chronogram
+Ichthyomyzon bdellium,timetree_Petromyzontiformes.nwk,chronogram
+Ichthyomyzon castaneus,timetree_Petromyzontiformes.nwk,chronogram
+Ichthyomyzon fossor,timetree_Petromyzontiformes.nwk,chronogram
+Ichthyomyzon gagei,timetree_Petromyzontiformes.nwk,chronogram
+Ichthyomyzon greeleyi,timetree_Petromyzontiformes.nwk,chronogram
+Ichthyomyzon unicuspis,timetree_Petromyzontiformes.nwk,chronogram
+Ictalurus furcatus,Fish Tree of Life,chronogram
+Ictalurus lupus,Fish Tree of Life,chronogram
+Ictalurus punctatus,Fish Tree of Life,chronogram
+Ictiobus bubalus,Fish Tree of Life,chronogram
+Ictiobus cyprinellus,Fish Tree of Life,chronogram
+Ictiobus niger,Fish Tree of Life,chronogram
+Iotichthys phlegethontis,Fish Tree of Life,chronogram
+Jordanella floridae,Fish Tree of Life,chronogram
+Labidesthes sicculus,Fish Tree of Life,chronogram
 Labidesthes vanhyningi,Labidesthes_bloom_et_al_2013.tre,chronogram
+Lagodon rhomboides,Fish Tree of Life,chronogram
+Lampetra aepyptera,timetree_Petromyzontiformes.nwk,chronogram
+Lampetra ayresii,timetree_Petromyzontiformes.nwk,chronogram
+Lampetra hubbsi,timetree_Petromyzontiformes.nwk,chronogram
+Lampetra richardsoni,timetree_Petromyzontiformes.nwk,chronogram
+Lavinia exilicauda,Fish Tree of Life,chronogram
+Leiostomus xanthurus,Fish Tree of Life,chronogram
+Lepidomeda copei,timetree_Lepidomeda.nwk,chronogram
+Lepidomeda vittata,Fish Tree of Life,chronogram
+Lepisosteus oculatus,Fish Tree of Life,chronogram
+Lepisosteus osseus,Fish Tree of Life,chronogram
+Lepisosteus platostomus,Fish Tree of Life,chronogram
+Lepisosteus platyrhincus,Fish Tree of Life,chronogram
+Lepomis auritus,Fish Tree of Life,chronogram
+Lepomis cyanellus,Fish Tree of Life,chronogram
+Lepomis gibbosus,Fish Tree of Life,chronogram
+Lepomis gulosus,Fish Tree of Life,chronogram
+Lepomis humilis,Fish Tree of Life,chronogram
+Lepomis macrochirus,Fish Tree of Life,chronogram
+Lepomis marginatus,Fish Tree of Life,chronogram
+Lepomis megalotis,Fish Tree of Life,chronogram
+Lepomis microlophus,Fish Tree of Life,chronogram
+Lepomis miniatus,Fish Tree of Life,chronogram
 Lepomis peltastes,Lepomis_kim_et_al_2022.tree,chronogram
+Lepomis punctatus,Fish Tree of Life,chronogram
+Lepomis symmetricus,Fish Tree of Life,chronogram
+Leptolucania ommata,timetree_Fundulidae.nwk,chronogram
+Lethenteron appendix,timetree_Petromyzontiformes.nwk,chronogram
+Lota lota,Fish Tree of Life,chronogram
+Lucania goodei,Fish Tree of Life,chronogram
+Lucania parva,Fish Tree of Life,chronogram
+Lutjanus griseus,Fish Tree of Life,chronogram
+Luxilus albeolus,Fish Tree of Life,chronogram
+Luxilus cardinalis,Fish Tree of Life,chronogram
+Luxilus cerasinus,Fish Tree of Life,chronogram
+Luxilus chrysocephalus,Fish Tree of Life,chronogram
+Luxilus coccogenis,Fish Tree of Life,chronogram
+Luxilus cornutus,Fish Tree of Life,chronogram
+Luxilus pilsbryi,Fish Tree of Life,chronogram
+Luxilus zonatus,Fish Tree of Life,chronogram
+Luxilus zonistius,Fish Tree of Life,chronogram
+Lythrurus alegnotus,Fish Tree of Life,chronogram
+Lythrurus ardens,Fish Tree of Life,chronogram
+Lythrurus atrapiculus,Fish Tree of Life,chronogram
+Lythrurus bellus,Fish Tree of Life,chronogram
+Lythrurus fasciolaris,Fish Tree of Life,chronogram
+Lythrurus fumeus,Fish Tree of Life,chronogram
+Lythrurus lirus,Fish Tree of Life,chronogram
+Lythrurus matutinus,Fish Tree of Life,chronogram
+Lythrurus roseipinnis,Fish Tree of Life,chronogram
+Lythrurus snelsoni,Fish Tree of Life,chronogram
+Lythrurus umbratilis,Fish Tree of Life,chronogram
+Macrhybopsis aestivalis,Fish Tree of Life,chronogram
+Macrhybopsis australis,"Described as sister species to Macrhybopsis tetranema (Underwood et al., 2003)",Literature review
 Macrhybopsis boschungi,Macrhybopsis_hoagstrom_echelle_2022.tre,chronogram
 Macrhybopsis etnieri,Macrhybopsis_hoagstrom_echelle_2022.tre,chronogram
+Macrhybopsis gelida,Fish Tree of Life,chronogram
+Macrhybopsis hyostoma,Fish Tree of Life,chronogram
+Macrhybopsis marconis,Fish Tree of Life,chronogram
 Macrhybopsis pallida,Macrhybopsis_hoagstrom_echelle_2022.tre,chronogram
+Macrhybopsis storeriana,Fish Tree of Life,chronogram
 Macrhybopsis tetranema,Macrhybopsis_hoagstrom_echelle_2022.tre,chronogram
+Margariscus margarita,Fish Tree of Life,chronogram
+Margariscus nachtriebi,Margariscus margarita is the only other species in this genus,Literature review
+Meda fulgida,Fish Tree of Life,chronogram
+Megalops atlanticus,Fish Tree of Life,chronogram
+Membras martinica,Fish Tree of Life,chronogram
+Menidia audens,"Formerly described as Menidia beryllina (Fluker et al., 2011)",Literature review
+Menidia beryllina,Fish Tree of Life,chronogram
+Menidia menidia,Fish Tree of Life,chronogram
+Microgadus tomcod,Fish Tree of Life,chronogram
+Microgobius gulosus,timetree_Gobiiformes.nwk,chronogram
+Micropogonias undulatus,Fish Tree of Life,chronogram
 Micropterus cahabae,Micropterus_kim_et_al_2022.tre,chronogram
 Micropterus cataractae,Micropterus_kim_et_al_2022.tre,chronogram
 Micropterus chattahoochae,Micropterus_kim_et_al_2022.tre,chronogram
 Micropterus coosae,Micropterus_kim_et_al_2022.tre,chronogram
 Micropterus dolomieu,Micropterus_kim_et_al_2022.tre,chronogram
 Micropterus henshalli,Micropterus_kim_et_al_2022.tre,chronogram
+Micropterus notius,Fish Tree of Life,chronogram
 Micropterus punctulatus,Micropterus_kim_et_al_2022.tre,chronogram
 Micropterus salmoides,Micropterus_kim_et_al_2022.tre,chronogram
 Micropterus sp. Altamaha Bass,Micropterus_kim_et_al_2022.tre,chronogram
@@ -781,36 +516,301 @@ Micropterus sp. Choctaw Bass,Micropterus_kim_et_al_2022.tre,chronogram
 Micropterus tallapoosae,Micropterus_kim_et_al_2022.tre,chronogram
 Micropterus treculii,Micropterus_kim_et_al_2022.tre,chronogram
 Micropterus warriorensis,Micropterus_kim_et_al_2022.tre,chronogram
-Chrosomus neogaeus,timetree_Chrosomus.nwk,chronogram
-Coregonus artedi,timetree_Coregoninae.nwk,chronogram
-Leptolucania ommata,timetree_Fundulidae.nwk,chronogram
-Ctenogobius shufeldti,timetree_Gobiiformes.nwk,chronogram
-Gobioides broussonetii,timetree_Gobiiformes.nwk,chronogram
-Microgobius gulosus,timetree_Gobiiformes.nwk,chronogram
+Minytrema melanops,Fish Tree of Life,chronogram
+Misgurnus anguillicaudatus,Fish Tree of Life,chronogram
+Monopterus albus,Fish Tree of Life,chronogram
+Morone americana,Fish Tree of Life,chronogram
+Morone chrysops,Fish Tree of Life,chronogram
+Morone mississippiensis,Fish Tree of Life,chronogram
+Morone saxatilis,Fish Tree of Life,chronogram
+Moxostoma anisurum,Fish Tree of Life,chronogram
+Moxostoma ariommum,Fish Tree of Life,chronogram
+Moxostoma breviceps,Fish Tree of Life,chronogram
+Moxostoma carinatum,Fish Tree of Life,chronogram
+Moxostoma cervinum,Fish Tree of Life,chronogram
+Moxostoma collapsum,Fish Tree of Life,chronogram
+Moxostoma congestum,Fish Tree of Life,chronogram
+Moxostoma duquesnei,Fish Tree of Life,chronogram
+Moxostoma erythrurum,Fish Tree of Life,chronogram
+Moxostoma lachneri,Fish Tree of Life,chronogram
+Moxostoma macrolepidotum,Fish Tree of Life,chronogram
+Moxostoma pappillosum,Fish Tree of Life,chronogram
+Moxostoma pisolabrum,Fish Tree of Life,chronogram
+Moxostoma poecilurum,Fish Tree of Life,chronogram
+Moxostoma robustum,Fish Tree of Life,chronogram
+Moxostoma rupiscartes,Fish Tree of Life,chronogram
+Moxostoma sp. Apalachicola Redhorse,Catostomidae_Bagley_et_al_2018.phy,chronogram
+Moxostoma sp. Brassy Jumprock,Catostomidae_Bagley_et_al_2018.phy,chronogram
+Moxostoma sp. Carolina Redhorse,Described as Moxostoma sp. cf. erythrurum,Literature review
+Moxostoma sp. Sicklefin Redhorse,Catostomidae_Bagley_et_al_2018.phy,chronogram
+Moxostoma valenciennesi,Fish Tree of Life,chronogram
+Mugil cephalus,Fish Tree of Life,chronogram
+Mugil curema,Fish Tree of Life,chronogram
+Mylocheilus caurinus,Fish Tree of Life,chronogram
+Mylopharodon conocephalus,Fish Tree of Life,chronogram
+Mylopharyngodon piceus,Fish Tree of Life,chronogram
+Myrophis punctatus,Fish Tree of Life,chronogram
 Neogobius melanostomus,timetree_Gobiiformes.nwk,chronogram
-Lepidomeda copei,timetree_Lepidomeda.nwk,chronogram
-Hypostomus plecostomus,timetree_Loricariidae.nwk,chronogram
-Entosphenus tridentatus,timetree_Petromyzontiformes.nwk,chronogram
-Ichthyomyzon bdellium,timetree_Petromyzontiformes.nwk,chronogram
-Ichthyomyzon castaneus,timetree_Petromyzontiformes.nwk,chronogram
-Ichthyomyzon fossor,timetree_Petromyzontiformes.nwk,chronogram
-Ichthyomyzon gagei,timetree_Petromyzontiformes.nwk,chronogram
-Ichthyomyzon greeleyi,timetree_Petromyzontiformes.nwk,chronogram
-Ichthyomyzon unicuspis,timetree_Petromyzontiformes.nwk,chronogram
-Lampetra aepyptera,timetree_Petromyzontiformes.nwk,chronogram
-Lampetra ayresii,timetree_Petromyzontiformes.nwk,chronogram
-Lampetra hubbsi,timetree_Petromyzontiformes.nwk,chronogram
-Lampetra richardsoni,timetree_Petromyzontiformes.nwk,chronogram
-Lethenteron appendix,timetree_Petromyzontiformes.nwk,chronogram
-Petromyzon marinus,timetree_Petromyzontiformes.nwk,chronogram
-Poecilia formosa,timetree_Poeciliinae.nwk,chronogram
-Erimonax monachus,timetree_Pogonichthyinae.nwk,chronogram
+Nocomis asper,Fish Tree of Life,chronogram
+Nocomis biguttatus,Fish Tree of Life,chronogram
+Nocomis effusus,Fish Tree of Life,chronogram
+Nocomis leptocephalus,Fish Tree of Life,chronogram
+Nocomis micropogon,Fish Tree of Life,chronogram
+Nocomis platyrhynchus,Fish Tree of Life,chronogram
+Nocomis raneyi,Fish Tree of Life,chronogram
+Notemigonus crysoleucas,Fish Tree of Life,chronogram
+Notropis albizonatus,"Described as a member of the Notropis procne species group (Warren et al., 1994)",Literature review
 Notropis alborus,timetree_Pogonichthyinae.nwk,chronogram
+Notropis altipinnis,Fish Tree of Life,chronogram
+Notropis amabilis,Fish Tree of Life,chronogram
+Notropis ammophilus,Fish Tree of Life,chronogram
+Notropis amoenus,Fish Tree of Life,chronogram
+Notropis amplamala,cyprinids_hollingsworth_et_al_2013.phy,chronogram
+Notropis anogenus,Fish Tree of Life,chronogram
+Notropis ariommus,Fish Tree of Life,chronogram
+Notropis asperifrons,Fish Tree of Life,chronogram
+Notropis atherinoides,Fish Tree of Life,chronogram
 Notropis atrocaudalis,timetree_Pogonichthyinae.nwk,chronogram
+Notropis baileyi,Fish Tree of Life,chronogram
 Notropis bairdi,timetree_Pogonichthyinae.nwk,chronogram
+Notropis bifrenatus,Fish Tree of Life,chronogram
+Notropis blennius,Fish Tree of Life,chronogram
+Notropis boops,Fish Tree of Life,chronogram
 Notropis braytoni,timetree_Pogonichthyinae.nwk,chronogram
+Notropis buccatus,Fish Tree of Life,chronogram
+Notropis buccula,"Formerly described as Notropis bairdi (Page & Burr, 1991)",Literature review
+Notropis buchanani,Fish Tree of Life,chronogram
+Notropis cahabae,Fish Tree of Life,chronogram
+Notropis candidus,Fish Tree of Life,chronogram
+Notropis chalybaeus,Fish Tree of Life,chronogram
+Notropis chihuahua,Fish Tree of Life,chronogram
+Notropis chiliticus,Fish Tree of Life,chronogram
+Notropis chlorocephalus,Fish Tree of Life,chronogram
+Notropis chrosomus,Fish Tree of Life,chronogram
 Notropis cummingsae,timetree_Pogonichthyinae.nwk,chronogram
+Notropis dorsalis,Fish Tree of Life,chronogram
+Notropis edwardraneyi,Fish Tree of Life,chronogram
+Notropis girardi,Fish Tree of Life,chronogram
 Notropis greenei,timetree_Pogonichthyinae.nwk,chronogram
+Notropis harperi,Fish Tree of Life,chronogram
+Notropis heterodon,Fish Tree of Life,chronogram
+Notropis heterolepis,Fish Tree of Life,chronogram
+Notropis hudsonius,Fish Tree of Life,chronogram
+Notropis hypsilepis,Fish Tree of Life,chronogram
+Notropis jemezanus,Fish Tree of Life,chronogram
+Notropis leuciodus,Fish Tree of Life,chronogram
+Notropis longirostris,Fish Tree of Life,chronogram
+Notropis lutipinnis,Fish Tree of Life,chronogram
+Notropis maculatus,Fish Tree of Life,chronogram
+Notropis mekistocholas,Fish Tree of Life,chronogram
 Notropis melanostomus,timetree_Pogonichthyinae.nwk,chronogram
+Notropis micropteryx,Fish Tree of Life,chronogram
+Notropis nubilus,Fish Tree of Life,chronogram
+Notropis oxyrhynchus,Fish Tree of Life,chronogram
+Notropis ozarcanus,Fish Tree of Life,chronogram
+Notropis percobromus,Fish Tree of Life,chronogram
+Notropis petersoni,Fish Tree of Life,chronogram
+Notropis photogenis,Fish Tree of Life,chronogram
+Notropis potteri,Fish Tree of Life,chronogram
+Notropis procne,Fish Tree of Life,chronogram
+Notropis rafinesquei,Fish Tree of Life,chronogram
+Notropis rubellus,Fish Tree of Life,chronogram
+Notropis rubricroceus,Fish Tree of Life,chronogram
+Notropis sabinae,Fish Tree of Life,chronogram
 Notropis scabriceps,timetree_Pogonichthyinae.nwk,chronogram
+Notropis scepticus,Fish Tree of Life,chronogram
+Notropis semperasper,Fish Tree of Life,chronogram
+Notropis shumardi,Fish Tree of Life,chronogram
+Notropis simus,Fish Tree of Life,chronogram
+Notropis sp. Kanawha Rosyface Shiner,Described as Notropis sp. Cf. rubellus,Literature review
+Notropis sp. Piedmont Shiner,Described as Notropis sp. cf. chlorocephalus ,Literature review
+Notropis sp. Sawfin Shiner,see graphical tree in Hollingsworth et al. (2013),cladogram
+Notropis spectrunculus,Fish Tree of Life,chronogram
+Notropis stilbius,Fish Tree of Life,chronogram
+Notropis stramineus,Fish Tree of Life,chronogram
+Notropis suttkusi,Fish Tree of Life,chronogram
+Notropis telescopus,Fish Tree of Life,chronogram
+Notropis texanus,Fish Tree of Life,chronogram
+Notropis topeka,Fish Tree of Life,chronogram
+Notropis uranoscopus,Fish Tree of Life,chronogram
+Notropis volucellus,Fish Tree of Life,chronogram
+Notropis wickliffi,Fish Tree of Life,chronogram
+Notropis xaenocephalus,Fish Tree of Life,chronogram
+Noturus albater,Fish Tree of Life,chronogram
+Noturus elegans,Fish Tree of Life,chronogram
+Noturus eleutherus,Fish Tree of Life,chronogram
+Noturus exilis,Fish Tree of Life,chronogram
+Noturus flavater,Fish Tree of Life,chronogram
+Noturus flavipinnis,Fish Tree of Life,chronogram
+Noturus flavus,Fish Tree of Life,chronogram
+Noturus funebris,Fish Tree of Life,chronogram
+Noturus furiosus,Fish Tree of Life,chronogram
+Noturus gilberti,Fish Tree of Life,chronogram
+Noturus gladiator,Fish Tree of Life,chronogram
+Noturus gyrinus,Fish Tree of Life,chronogram
+Noturus hildebrandi,Fish Tree of Life,chronogram
+Noturus insignis,Fish Tree of Life,chronogram
+Noturus lachneri,Fish Tree of Life,chronogram
+Noturus leptacanthus,Fish Tree of Life,chronogram
+Noturus maydeni,Fish Tree of Life,chronogram
+Noturus miurus,Fish Tree of Life,chronogram
+Noturus munitus,Fish Tree of Life,chronogram
+Noturus nocturnus,Fish Tree of Life,chronogram
+Noturus phaeus,Fish Tree of Life,chronogram
+Noturus placidus,Fish Tree of Life,chronogram
+Noturus sp. Highlands Stonecat,Described as Noturus sp. cf. flavus,Literature review
+Noturus stigmosus,Fish Tree of Life,chronogram
+Noturus taylori,Fish Tree of Life,chronogram
+Novumbra hubbsi,Fish Tree of Life,chronogram
+Oligolepis acutipennis,Fish Tree of Life,chronogram
+Oligoplites saurus,Fish Tree of Life,chronogram
+Oncorhynchus aguabonita,"Formerly described as Oncorhynchus mykiss (NatureServe, 2010)",Literature review
+Oncorhynchus apache,Fish Tree of Life,chronogram
+Oncorhynchus clarkii,Fish Tree of Life,chronogram
+Oncorhynchus gilae,Fish Tree of Life,chronogram
+Oncorhynchus gorbuscha,Fish Tree of Life,chronogram
+Oncorhynchus keta,Fish Tree of Life,chronogram
+Oncorhynchus kisutch,Fish Tree of Life,chronogram
+Oncorhynchus mykiss,Fish Tree of Life,chronogram
+Oncorhynchus nerka,Fish Tree of Life,chronogram
+Oncorhynchus tshawytscha,Fish Tree of Life,chronogram
+Ophichthus gomesii,Fish Tree of Life,chronogram
+Opsanus beta,Fish Tree of Life,chronogram
+Opsopoeodus emiliae,Fish Tree of Life,chronogram
+Oregonichthys kalawatseti,Fish Tree of Life,chronogram
+Oreochromis aureus,Fish Tree of Life,chronogram
+Oreochromis mossambicus,Fish Tree of Life,chronogram
+Oreochromis niloticus,Fish Tree of Life,chronogram
+Orthodon microlepidotus,Fish Tree of Life,chronogram
+Osmerus mordax,Fish Tree of Life,chronogram
+Osteoglossum bicirrhosum,Fish Tree of Life,chronogram
+Paralichthys lethostigma,Fish Tree of Life,chronogram
+Pararhinichthys bowersi,Fish Tree of Life,chronogram
+Perca flavescens,Fish Tree of Life,chronogram
+Percina apristis,Fish Tree of Life,chronogram
+Percina aurantiaca,Fish Tree of Life,chronogram
+Percina aurolineata,Fish Tree of Life,chronogram
+Percina austroperca,Fish Tree of Life,chronogram
+Percina bimaculata,Fish Tree of Life,chronogram
+Percina brevicauda,Fish Tree of Life,chronogram
+Percina burtoni,Fish Tree of Life,chronogram
+Percina caprodes,Fish Tree of Life,chronogram
+Percina carbonaria,Fish Tree of Life,chronogram
+Percina copelandi,Fish Tree of Life,chronogram
+Percina crassa,Fish Tree of Life,chronogram
+Percina cymatotaenia,Fish Tree of Life,chronogram
+Percina evides,Fish Tree of Life,chronogram
+Percina fulvitaenia,Fish Tree of Life,chronogram
+Percina gymnocephala,Fish Tree of Life,chronogram
+Percina kathae,Fish Tree of Life,chronogram
+Percina kusha,Fish Tree of Life,chronogram
+Percina lenticula,Fish Tree of Life,chronogram
+Percina macrocephala,Fish Tree of Life,chronogram
+Percina macrolepida,Fish Tree of Life,chronogram
+Percina maculata,Fish Tree of Life,chronogram
+Percina nasuta,Fish Tree of Life,chronogram
+Percina nevisense,Fish Tree of Life,chronogram
+Percina nigrofasciata,Fish Tree of Life,chronogram
+Percina notogramma,Fish Tree of Life,chronogram
+Percina oxyrhynchus,Fish Tree of Life,chronogram
+Percina palmaris,Fish Tree of Life,chronogram
+Percina pantherina,Fish Tree of Life,chronogram
+Percina peltata,Fish Tree of Life,chronogram
+Percina phoxocephala,Fish Tree of Life,chronogram
+Percina rex,Fish Tree of Life,chronogram
+Percina roanoka,Fish Tree of Life,chronogram
+Percina sciera,Fish Tree of Life,chronogram
+Percina shumardi,Fish Tree of Life,chronogram
+Percina sipsi,Fish Tree of Life,chronogram
+Percina smithvanizi,Fish Tree of Life,chronogram
+Percina squamata,Fish Tree of Life,chronogram
+Percina stictogaster,Fish Tree of Life,chronogram
+Percina suttkusi,Fish Tree of Life,chronogram
+Percina tanasi,Fish Tree of Life,chronogram
+Percina uranidea,Fish Tree of Life,chronogram
+Percina vigil,Fish Tree of Life,chronogram
+Percina williamsi,Fish Tree of Life,chronogram
+Percopsis omiscomaycus,Fish Tree of Life,chronogram
+Percopsis transmontana,Fish Tree of Life,chronogram
+Petromyzon marinus,timetree_Petromyzontiformes.nwk,chronogram
+Phenacobius catostomus,Fish Tree of Life,chronogram
+Phenacobius crassilabrum,Fish Tree of Life,chronogram
+Phenacobius mirabilis,Fish Tree of Life,chronogram
+Phenacobius teretulus,Fish Tree of Life,chronogram
+Phenacobius uranops,Fish Tree of Life,chronogram
+Pimephales notatus,Fish Tree of Life,chronogram
+Pimephales promelas,Fish Tree of Life,chronogram
+Pimephales tenellus,Fish Tree of Life,chronogram
+Pimephales vigilax,Fish Tree of Life,chronogram
+Platygobio gracilis,Fish Tree of Life,chronogram
+Poecilia formosa,timetree_Poeciliinae.nwk,chronogram
+Poecilia latipinna,Fish Tree of Life,chronogram
+Poecilia reticulata,Fish Tree of Life,chronogram
+Poeciliopsis occidentalis,Fish Tree of Life,chronogram
+Pogonias cromis,Fish Tree of Life,chronogram
+Pogonichthys macrolepidotus,Fish Tree of Life,chronogram
+Polyodon spathula,Fish Tree of Life,chronogram
+Pomatomus saltatrix,Fish Tree of Life,chronogram
+Pomoxis annularis,Fish Tree of Life,chronogram
+Pomoxis nigromaculatus,Fish Tree of Life,chronogram
+Prosopium coulterii,Fish Tree of Life,chronogram
+Prosopium cylindraceum,Fish Tree of Life,chronogram
+Prosopium williamsoni,Fish Tree of Life,chronogram
+Proterorhinus semilunaris,Fish Tree of Life,chronogram
+Pteronotropis euryzonus,Fish Tree of Life,chronogram
+Pteronotropis grandipinnis,Fish Tree of Life,chronogram
+Pteronotropis hubbsi,Fish Tree of Life,chronogram
+Pteronotropis hypselopterus,Fish Tree of Life,chronogram
 Pteronotropis merlini,timetree_Pogonichthyinae.nwk,chronogram
+Pteronotropis metallicus,Fish Tree of Life,chronogram
+Pteronotropis signipinnis,Fish Tree of Life,chronogram
+Pteronotropis stonei,see graphical tree in Mayden & Allen (2015),cladogram
+Pteronotropis welaka,Fish Tree of Life,chronogram
+Pterygoplichthys disjunctivus,Fish Tree of Life,chronogram
+Pterygoplichthys multiradiatus,Fish Tree of Life,chronogram
+Ptychocheilus grandis,Fish Tree of Life,chronogram
+Ptychocheilus lucius,Fish Tree of Life,chronogram
+Ptychocheilus oregonensis,Fish Tree of Life,chronogram
+Ptychocheilus umpquae,Fish Tree of Life,chronogram
+Pungitius pungitius,Fish Tree of Life,chronogram
+Pylodictis olivaris,Fish Tree of Life,chronogram
+Rhinichthys atratulus,Fish Tree of Life,chronogram
+Rhinichthys cataractae,Fish Tree of Life,chronogram
+Rhinichthys cobitis,Fish Tree of Life,chronogram
+Rhinichthys evermanni,Fish Tree of Life,chronogram
+Rhinichthys falcatus,Fish Tree of Life,chronogram
+Rhinichthys obtusus,Fish Tree of Life,chronogram
+Rhinichthys osculus,Fish Tree of Life,chronogram
+Rhinichthys umatilla,Fish Tree of Life,chronogram
+Richardsonius balteatus,Fish Tree of Life,chronogram
+Richardsonius egregius,Fish Tree of Life,chronogram
+Rocio octofasciata,Fish Tree of Life,chronogram
+Salmo salar,Fish Tree of Life,chronogram
+Salmo trutta,Fish Tree of Life,chronogram
+Salvelinus confluentus,Fish Tree of Life,chronogram
+Salvelinus fontinalis,Fish Tree of Life,chronogram
+Salvelinus malma,Fish Tree of Life,chronogram
+Salvelinus namaycush,Fish Tree of Life,chronogram
+Sander canadensis,Fish Tree of Life,chronogram
+Sander vitreus,Fish Tree of Life,chronogram
+Scaphirhynchus albus,Fish Tree of Life,chronogram
+Scaphirhynchus platorynchus,Fish Tree of Life,chronogram
+Scardinius erythrophthalmus,Fish Tree of Life,chronogram
+Sciaenops ocellatus,Fish Tree of Life,chronogram
+Semotilus atromaculatus,Fish Tree of Life,chronogram
+Semotilus corporalis,Fish Tree of Life,chronogram
+Semotilus lumbee,Fish Tree of Life,chronogram
+Semotilus thoreauianus,Fish Tree of Life,chronogram
+Siphateles bicolor,Fish Tree of Life,chronogram
+Strongylura marina,Fish Tree of Life,chronogram
+Syngnathus scovelli,Fish Tree of Life,chronogram
+Thaleichthys pacificus,Fish Tree of Life,chronogram
+Thoburnia atripinnis,Fish Tree of Life,chronogram
+Thoburnia hamiltoni,Fish Tree of Life,chronogram
+Thoburnia rhothoeca,Fish Tree of Life,chronogram
+Thymallus arcticus,Fish Tree of Life,chronogram
+Tinca tinca,Fish Tree of Life,chronogram
+Trinectes maculatus,Fish Tree of Life,chronogram
+Umbra limi,Fish Tree of Life,chronogram
+Umbra pygmaea,Fish Tree of Life,chronogram
+Xyrauchen texanus,Fish Tree of Life,chronogram
