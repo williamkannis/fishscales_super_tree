@@ -1395,3 +1395,27 @@ tree_trim <- keep.tip(tree_final, species_names)
 ape::write.nexus(tree_trim,"phylo_tree.nex")  # export as nex file
 saveRDS(tree_trim,"phylo_tree.rds")  # export as rds file
 
+
+# Tree summaries  --------------------------------------------------------------
+
+# List all trees (raw and final)
+t_list <-mget(ls(pattern = "^tree_"))
+t_list <- t_list[!names(t_list) %in% c(
+  "tree_backbone_data",
+  "tree_backbone_data_og",
+  "tree_dir",
+  "tree_tips_b")]
+
+# Summarize
+lapply(1:length(t_list), function(t){
+  
+  tree <- t_list[[t]]
+  data.frame(
+    tree = names(t_list)[t],
+    rooted = ape::is.rooted(tree),
+    n_tips = length(tree$tip.label),
+    n_nodes = tree$Nnode
+  )
+  
+}) %>% 
+  bind_rows()
