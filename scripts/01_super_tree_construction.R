@@ -29,14 +29,14 @@ library(picante)
 library(RRphylo)
 
 # Directories
-tree_dir <- ""
+tree_dir <- "raw_tree_files"
 
 
 
 # Load in Data -----------------------------------------------------------------
 
 # Species names from community data
-species_names <- read.csv("full_species_list.csv")[,1]
+species_names <- read.csv("data/species_source.csv")[,"species"]
 species_names <- species_names[order(species_names)]  # order by name
 
 # Phylo tree from fish tree of life (Rabosky et al. 2018)
@@ -97,7 +97,7 @@ tree_tips_b <- tree_b$tip.label
 # Pull up species that are truly missing
 miss_fish <- species_names[!species_names %in% tree_tips_b]
 
-### Prepare tree for merging  --------------------------------------------------
+# Prepare tree for merging  ----------------------------------------------------
 
 # Merge specie specific trees to main tree. This is the ideal method for adding 
 # truly missing species. IF trees cannot be find, see remaining species section
@@ -139,8 +139,8 @@ tree_backbone_data_og <-tree_backbone_data
 
 # Catostomidae -----------------------------------------------------------------
 
-# Catostomus and Moxostoma (Bagleey et al. 2018) 
-tree_catostomidae <- ape::read.tree()  
+# Catostomus and Moxostoma (Bagley et al. 2018) 
+tree_catostomidae <- ape::read.tree(file.path(tree_dir,"Catostomidae_Bagley_et_al_2018.phy"))  
 
 # Format to match data set
 tree_catostomidae$tip.label[
@@ -234,7 +234,7 @@ tree_backbone_data <- tree.merger(
 # Chrosomus  -------------------------------------------------------------------
 
 # Catostomidae tree TimeTree
-tree_chrosomus <- ape::read.tree()  
+tree_chrosomus <- ape::read.tree(file.path(tree_dir,"timetree_Chrosomus.nwk"))  
 
 # # Check to see if tree contains all species in data set
 # species_names[word(species_names,1) == "Chrosomus"]
@@ -272,10 +272,10 @@ tree_backbone_data <- tree.merger(
   )  
 
 
-# Coregonus --------------------------------------------------------------------
+# Coregoninae ------------------------------------------------------------------
 
 # Coregonus tree from TimeTree
-tree_coregonus <- ape::read.tree()  # load in 
+tree_coregonus <- ape::read.tree(file.path(tree_dir,"timetree_Coregoninae.nwk"))  
 
 # # Check to see if tree contains all species in data set
 # species_names[word(species_names,1) == "Coregonus"]
@@ -317,7 +317,7 @@ tree_backbone_data <- tree.merger(
 # Tree not time calibrated, treemerger chooses node ages
 
 # Elassoma tree from Sandel et al. 2014
-tree_elasomma <- ape::read.tree()
+tree_elasomma <- ape::read.tree(file.path(tree_dir,"elassoma_sandel_et_al_2014.nwk.txt"))
 
 # change labels to match data set
 tree_elasomma$tip.label[tree_elasomma$tip.label == "'Elassoma_okatie_8AF'"] <- 
@@ -355,7 +355,7 @@ tree_backbone_data <- tree.merger(
 # Erimyzon ---------------------------------------------------------------------
 
 # Erimyzon tree from Hunt et al., 2021
-tree_erimyzon <- ape::read.nexus()  # load in 
+tree_erimyzon <- ape::read.nexus(file.path(tree_dir,"erimyzon_hunt_et_al_2021.tre")) 
 
 # change tip labels to match data set
 tree_erimyzon$tip.label[tree_erimyzon$tip.label == "E.claviformis2AL"] <- 
@@ -401,7 +401,7 @@ tree_backbone_data <- tree.merger(
 # Tree not time calibrated, treemerger chooses node ages
 
 # Etheostoma tree from Near et al. 2011
-tree_etheostoma <- ape::read.nexus() 
+tree_etheostoma <- ape::read.nexus(file.path(tree_dir,"percidea_near_et_al_2011.nex")) 
 
 # change tip labels to match data set
 tree_etheostoma$tip.label[
@@ -511,7 +511,7 @@ tree_backbone_data <- tree.merger(
 # Gobiiformes:  ----------------------------------------------------------------
 
 # Ctenogobius, Gobioides, Microgobius, and Neogobius (TimeTree)
-tree_gobiiformes <- ape::read.tree()  
+tree_gobiiformes <- ape::read.tree(file.path(tree_dir,"timetree_Gobiiformes.nwk"))  
 
 # Format to match data set
 tree_gobiiformes$tip.label <- gsub("_", " ", tree_gobiiformes$tip.label)
@@ -582,41 +582,41 @@ tree_backbone_data <- tree.merger(
 # Hypostomus -------------------------------------------------------------------
 
 # Hypostomus tree from TimeTree
-tree_hypostomus <- ape::read.tree() 
+tree_loric <- ape::read.tree(file.path(tree_dir,"timetree_Loricariidae.nwk")) 
 
 # Format to match data set
-tree_hypostomus$tip.label <- gsub("_", " ", tree_hypostomus$tip.label)
+tree_loric$tip.label <- gsub("_", " ", tree_loric$tip.label)
 
 # Check to see if tree contains all species in data set
 # hypostomus_species <- species_names[word(species_names,1) == "Hypostomus"]  
-# hypostomus_species[!hypostomus_species %in% tree_hypostomus$tip.label]
+# hypostomus_species[!hypostomus_species %in% tree_loric$tip.label]
 # # only one species in genus, might not make sense to replace whole genus
 # hypo_names <- tree_backbone_data$tip.label[
 #   word(tree_backbone_data$tip.label,1) %in% c("Hypostomus","Pterygoplichthys")
 #   ]
 # tree_backbone_hypo <- keep.tip(tree_backbone_data, hypo_names)
 # # Trim tree
-# tree_hypostomus <- keep.tip(
-#   tree_hypostomus, 
+# tree_loric <- keep.tip(
+#   tree_loric, 
 #   c(
 #     tree_backbone_hypo$tip.label[
-#       tree_backbone_hypo$tip.label %in% tree_hypostomus$tip.label
+#       tree_backbone_hypo$tip.label %in% tree_loric$tip.label
 #       ],
 #     "Hypostomus plecostomus"
 #     )
 #   )
 # 
 # # label nodes to easier determine node ages
-# tree_hypostomus$node.label <- 1:tree_hypostomus$Nnode
+# tree_loric$node.label <- 1:tree_loric$Nnode
 # tree_backbone_hypo$node.label <- 1:tree_backbone_hypo$Nnode
 # 
 # # Plot trees
 # par(mfrow=c(1,2))
-# plot.phylo(tree_hypostomus, show.node.label = T,use.edge.length = F)
+# plot.phylo(tree_loric, show.node.label = T,use.edge.length = F)
 # plot.phylo(tree_backbone_hypo, show.node.label = T,use.edge.length = F)
 # 
 # # Find tip and node ages
-# tree.age(tree_hypostomus)
+# tree.age(tree_loric)
 # tree.age(tree_backbone_hypo)
 
 # Merge trees
@@ -629,7 +629,7 @@ nod.age <- c("Hypostomus plecostomus-Hypostomus brevis" = 4.269)  # #3-4.269 #1-
 tree_backbone_data <- tree.merger(
   tree_backbone_data, 
   data, 
-  tree_hypostomus, 
+  tree_loric, 
   node.ages = nod.age
   )  
 
@@ -637,7 +637,7 @@ tree_backbone_data <- tree.merger(
 # Labidesthes ------------------------------------------------------------------
 
 # Labidesthes tree from Bloom et al. 2013
-tree_labi <- ape::read.nexus()
+tree_labi <- ape::read.nexus(file.path(tree_dir,"Labidesthes_bloom_et_al_2013.tre"))
 
 # Format to match data set
 tree_labi$tip.label[tree_labi$tip.label == "Lsvan3844"] <- 
@@ -680,7 +680,7 @@ tree_backbone_data <- tree.merger(
 # Lepidomeda -------------------------------------------------------------------
 
 # Lepidomeda tree from TimeTree
-tree_lepidomeda <- ape::read.tree()  
+tree_lepidomeda <- ape::read.tree(file.path(tree_dir,"timetree_Lepidomeda.nwk"))  
 
 # Format to match data set
 tree_lepidomeda$tip.label <- gsub("_", " ", tree_lepidomeda$tip.label)
@@ -730,19 +730,19 @@ tree_backbone_data <- tree.merger(
   )  
 
 
-# Leptolucania -----------------------------------------------------------------
+# Fundulidae -----------------------------------------------------------------
 
 # Leptolucania tree from TimeTree
-tree_leptolucania <- ape::read.tree()  =
+tree_fundulidae <- ape::read.tree(file.path(tree_dir,"timetree_Fundulidae.nwk")) 
 
 # Format to match data set
-tree_leptolucania$tip.label <- gsub("_", " ", tree_leptolucania$tip.label)
+tree_fundulidae$tip.label <- gsub("_", " ", tree_fundulidae$tip.label)
 
 # # Check to see if tree contains all species in data set
 # fun_names <- species_names[
 #   word(species_names,1) %in% c("Lucania","Fundulus","Leptolucania")
 #   ]
-# tree_leptolucania$tip.label[!fun_names %in% tree_leptolucania$tip.label]
+# tree_fundulidae$tip.label[!fun_names %in% tree_fundulidae$tip.label]
 # # only one species in genus, might not make sense to replace whole genus
 # lepto_names <- tree_backbone_data$tip.label[
 #   word(tree_backbone_data$tip.label, 1) %in% 
@@ -750,16 +750,16 @@ tree_leptolucania$tip.label <- gsub("_", " ", tree_leptolucania$tip.label)
 #   ]
 # tree_backbone_lepto <- keep.tip(tree_backbone_data,lepto_names)
 # # label nodes to easier determine node ages
-# tree_leptolucania$node.label <- 1:tree_leptolucania$Nnode
+# tree_fundulidae$node.label <- 1:tree_fundulidae$Nnode
 # tree_backbone_lepto$node.label <- 1:tree_backbone_lepto$Nnode
 #
 # # Plot trees
 # par(mfrow=c(1,2))
-# plot.phylo(tree_leptolucania, show.node.label = T,use.edge.length = F)
+# plot.phylo(tree_fundulidae, show.node.label = T,use.edge.length = F)
 # plot.phylo(tree_backbone_lepto, show.node.label = T,use.edge.length = F)
 #
 # # Find tip and node ages
-# tree.age(tree_leptolucania)
+# tree.age(tree_fundulidae)
 # tree.age(tree_backbone_lepto)
 
 # Merge trees
@@ -774,14 +774,14 @@ nod.age <- c("Leptolucania ommata-Lucania parva" = 30)
 # you can give it without messing up tree
 tree_backbone_data <- tree.merger(
   tree_backbone_data, data, 
-  tree_leptolucania, 
+  tree_fundulidae, 
   node.ages = nod.age
   )  
 
 # Lepomis ----------------------------------------------------------------------
 
 # Lepomis Tree from Kim et al. 2022
-tree_lepomis <- ape::read.nexus()  # Load in tree from Kim et al. 2022
+tree_lepomis <- ape::read.nexus(file.path(tree_dir,"Lepomis_kim_et_al_2022.tree"))
 
 # Format to match data set
 tree_lepomis$tip.label[tree_lepomis$tip.label == "PEL"] <- "Lepomis peltastes"  
@@ -826,7 +826,7 @@ tree_backbone_data <- tree.merger(
 # Macrhybopsis -----------------------------------------------------------------
 
 # Macrhybopsis tree from Hoagstrom and echelle 2022
-tree_macrhy <- ape::read.nexus()
+tree_macrhy <- ape::read.nexus(file.path(tree_dir,"Macrhybopsis_hoagstrom_echelle_2022.tre"))
 
 # Format to match data set
 tree_macrhy$tip.label[tree_macrhy$tip.label == "G1_Mbosch"] <- 
@@ -886,13 +886,13 @@ tree_backbone_data <- tree.merger(
 # Micropterus ------------------------------------------------------------------
 
 # Micropterus tree from Kim et al., 2022 
-tree_micropterus <- ape::read.nexus()
+tree_micropterus <- ape::read.nexus(file.path(tree_dir,"Micropterus_kim_et_al_2022.tre"))
 
 # Format to match data set
 micro_names <- read.csv(
   paste0(
     tree_dir,
-    "Micropterus_kim_et_al_2022_metadata/micropterus_kim_et_al_2022_names.csv"
+    "micropterus_kim_et_al_2022_names.csv"
     )
   )  
 tree_micropterus$tip.label <- micro_names$Specimen[
@@ -941,7 +941,7 @@ tree_backbone_data <- tree.merger(
 # Poeciliinae ------------------------------------------------------------------
 
 # Poeciliinae tree from TimeTree
-tree_poecil <- ape::read.tree()  # load in 
+tree_poecil <- ape::read.tree(file.path(tree_dir,"timetree_Poeciliinae.nwk")) 
 
 # Format to match data set
 tree_poecil$tip.label <- gsub("_", " ", tree_poecil$tip.label)
@@ -989,7 +989,7 @@ tree_backbone_data <- tree.merger(
 # Pogonichthyinae --------------------------------------------------------------
 
 #Erimonax, Notropis, and Pteronotropis (TimeTree)
-tree_pogo <- ape::read.tree()  # load in Pogonichthyinae tree from TimeTree
+tree_pogo <- ape::read.tree(file.path(tree_dir,"timetree_Pogonichthyinae.nwk"))
 tree_pogo$tip.label <- gsub("_", " ", tree_pogo$tip.label)
 
 # # Check to see if tree contains all species in data set
@@ -1087,7 +1087,7 @@ tree_backbone_data <- tree.merger(
 # Cyprinids  -------------------------------------------------------------------
 
 # Campostoma and Notropis (Hollingsworth et al 2013)
-tree_cyprinids <- ape::read.tree() 
+tree_cyprinids <- ape::read.tree(file.path(tree_dir,"cyprinids_hollingsworth_et_al_2013.phy")) 
 
 # Format to match data set
 tree_cyprinids$tip.label <- gsub("_", " ", tree_cyprinids$tip.label)
@@ -1344,7 +1344,7 @@ tree_backbone_data <- tree.merger(tree_backbone_data,data)
 # lamprey tree
 
 # lamprey tree from TimeTree
-tree_lamp <- ape::read.tree()  
+tree_lamp <- ape::read.tree(file.path(tree_dir,"timetree_Petromyzontiformes.nwk"))  
 
 # Format name to match data set
 tree_lamp$tip.label <- gsub("_", " ", tree_lamp$tip.label)
