@@ -1,10 +1,10 @@
-# Freshwater fish phylogenetic super tree
+# Freshwater fish phylogenetic super tree (v1.0.0)
 
  
 ## Overview
 
 This repository contains the code and documentation used to construct
-a phylogenetic supertree for the freshwater fish species in the FishScales
+a time-calibrated informal supertree for the freshwater fish species in the FishScales
 data base.
 
 The resulting tree integrates phylogenetic information from 11 published
@@ -21,9 +21,8 @@ The released phylogenetic tree is archived on Zenodo:
 [DOI / Zenodo badge]
 
 Available formats:
-- Newick
-- Nexus
-- [other format]
+- Nexus (.nex)
+- R object (.rds)
 
 We provide the following data in this repository:
 
@@ -82,11 +81,11 @@ and `data/tree_appendix.pdf`.
 
 - Number of tips: 815
 - Number of internal nodes: 814
-- Rooting:
-- Branch lengths: 
-- Taxonomic coverage:
-- Date/version:
-- Construction method:
+- Rooting: Outgroup = class Petromyzontida
+- Branch lengths: chronogram
+- Taxonomic coverage: Actinopterygii and Petromyzontida
+- version: v1.0.0
+- Construction method: time-calibrated informal supertree
 
 ## Reproducibility
 
@@ -108,7 +107,9 @@ If you use this phylogenetic supertree, please cite:
 
 ## Related publications
 
-[List papers that used earlier versions of the tree.]
+> Syndromes of multidimensional beta diversity change in invaded metacommunities
+
+> “Drivers of multidimensional beta diversity change in invaded stream fish communities”
 
 ## License
 
