@@ -4,14 +4,14 @@
 ## Overview
 
 This repository contains the code and documentation used to construct
-a time-calibrated informal supertree for the freshwater fish species in the FishScales
+a time-calibrated informal super tree for the freshwater fish species in the FishScales
 data base.
 
 The resulting tree integrates phylogenetic information from 11 published
 phylogenetic studies and contains 815 species.
 
 **NOTE:** The tree was constructed for use in diversity studies. As information in
-supertree is compiled from multiple sources with differing methodologies,
+super tree is compiled from multiple sources with differing methodologies,
 this tree is not suited for evolutionary analyses
 
 ## Data access
@@ -21,6 +21,7 @@ The released phylogenetic tree is archived on Zenodo:
 [DOI / Zenodo badge]
 
 Available formats:
+
 - Nexus (.nex)
 - R object (.rds)
 
@@ -28,13 +29,13 @@ We provide the following data in this repository:
 
 * `data/tree_source.csv` - Basic summary, citations, and download location of
 raw phylogenetic trees used in super tree construction
-* `data/species_source.csv` - List of all species in supertree, and their data
+* `data/species_source.csv` - List of all species in super tree, and their data
 sources.
 * `data/tree_appendix.pdf` - Detailed methodology for super tree creation.
 
 ## Tree construction
 
-The supertree was constructed using the methods of 
+The super tree was constructed using the methods of 
 [Castiglione et al. (2022)](https://doi.org/10.1111/pala.12588) with the 
 tree.merger function from the [‘RRphylo’ R package](https://doi.org/10.32614/CRAN.package.RRphylo). 
 In this manner, one tree acts as the backbone tree in 
@@ -85,7 +86,7 @@ and `data/tree_appendix.pdf`.
 - Branch lengths: chronogram
 - Taxonomic coverage: Actinopterygii and Petromyzontida
 - version: v1.0.0
-- Construction method: time-calibrated informal supertree
+- Construction method: time-calibrated informal super tree
 
 ## Reproducibility
 
@@ -97,9 +98,9 @@ naming scheme in `data/source_trees.csv`.
 
 ## Citation
 
-If you use this phylogenetic supertree, please cite:
+If you use this phylogenetic super tree, please cite:
 
-[supertree citation]
+[super tree citation]
 
 [MANUSCRIPT CITATION]
 
