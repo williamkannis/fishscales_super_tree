@@ -1392,8 +1392,8 @@ tree_final <- tree.merger(
 
 # retain only species from data set
 tree_trim <- keep.tip(tree_final, species_names) 
-ape::write.nexus(tree_trim,"phylo_tree.nex")  # export as nex file
-saveRDS(tree_trim,"phylo_tree.rds")  # export as rds file
+ape::write.nexus(phy =tree_trim,file="fishscales_super_phylo_tree.nex")  # export as nex file
+saveRDS(tree_trim,"fishscales_super_phylo_tree.rds")  # export as rds file
 
 
 # Tree summaries  --------------------------------------------------------------
