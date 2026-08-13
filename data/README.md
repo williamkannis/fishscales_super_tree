@@ -6,9 +6,10 @@ The released phylogenetic tree is archived on Zenodo:
 [DOI / Zenodo badge]
 
 Available formats:
-- Newick
-- Nexus
-- [other format]
+
+
+- Nexus (.nex)
+- R object (.rds)
 
 We provide the following data in this repository:
 

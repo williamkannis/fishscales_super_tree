@@ -1,4 +1,4 @@
-# Freshwater fish phylogenetic super tree (v1.0.0)
+# Freshwater fish phylogenetic super tree (peer review version)
 
  
 ## Overview
@@ -85,7 +85,7 @@ and `data/tree_appendix.pdf`.
 - Rooting: Outgroup = class Petromyzontida
 - Branch lengths: chronogram
 - Taxonomic coverage: Actinopterygii and Petromyzontida
-- version: v1.0.0
+- version: peer review version
 - Construction method: time-calibrated informal super tree
 
 ## Reproducibility
