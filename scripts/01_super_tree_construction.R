@@ -4,9 +4,9 @@
 #                           
 #-------------------------------------------------------------------------------
 
-# Author
+# Author: William K. Annis
 
-# Created
+# Created: 6/1/2023
 
 # Description:
 # This script creates a phylogenetic supertree using the Fish Tree of Life 
