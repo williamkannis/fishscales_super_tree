@@ -96,6 +96,18 @@ Raw trees can be downloaded from sources indicated in `data/source_trees.csv`,
 and placed into `raw_data_files/`. Ensure that each file is renamed to match the
 naming scheme in `data/source_trees.csv`.
 
+### Software
+**R version:** 4.5.0
+
+R packages
+
+* ```'ape'``` version: 5.8.1
+* ```'dplyr'``` version: 1.1.4
+* ```'fishtree'``` version: 0.3.4’
+* ```'picante'``` version: 1.8.2
+* ```'RRphylo'``` version: 3.0.2
+* ```'stringr'``` version: 1.5.1
+
 ## Citation
 
 If you use this phylogenetic super tree, please cite:
@@ -119,9 +131,9 @@ OrcID: 0009-0003-3541-8503
 
 ## Related publications
 
-> Syndromes of multidimensional beta diversity change in invaded metacommunities
+> “Null models reveal differing drivers of multidimensional beta diversity change in invaded metacommunities”
 
-> “Drivers of multidimensional beta diversity change in invaded stream fish communities”
+> "Invasion syndromes of changes in multidimensional beta diversity"" 
 
 ## License
 
