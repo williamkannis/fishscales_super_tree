@@ -115,11 +115,10 @@ If you use this phylogenetic super tree, please cite:
 
 [super tree citation]
 
-
 BLANK. Null models reveal differing drivers of multidimensional beta diversity 
 change in invaded metacommunities. in review
 
-BLANK. Invasion syndromes based on shared changes in multidimensional beta diversity.
+BLANK. Syndromes of multifaceted beta diversity change in invaded metacommunities.
 in review
 
 ## Contact
@@ -137,7 +136,7 @@ OrcID: 0009-0003-3541-8503
 
 > “Null models reveal differing drivers of multidimensional beta diversity change in invaded metacommunities”
 
-> "Invasion syndromes based on shared changes in multidimensional beta diversity" 
+> "Syndromes of multifaceted beta diversity change in invaded metacommunities" 
 
 ## License
 
